@@ -1,0 +1,933 @@
+Enfermedad,Persona,frase,num_ind,indicador,dimension,contiene_indicador
+Epilepsia ,Primera Persona ,Siempre me ha interesado cómo funciona el cerebro.,0,,,0
+Epilepsia ,Primera Persona ,Me hice profesor de neurofisiología clínica y trabajé con personas que viven con epilepsia.,0,,,0
+Epilepsia ,Primera Persona ,"Después, tras sufrir un accidente de ciclismo a los 61 años, pasé a padecer yo mismo esta enfermedad.",0,,,0
+Epilepsia ,Primera Persona ,Fui operado por los hematomas subdurales que tenía en el cerebro y posteriormente desarrollé epilepsia.,0,,,0
+Epilepsia ,Primera Persona ,"Tras estudiar la epilepsia durante décadas, me resultó difícil asumir el hecho",1,falta aceptación,Dimensión 8: Mental Health,1
+Epilepsia ,Primera Persona ,de que ahora yo era un paciente y no el médico,1,cambio rol social,Dimensión 7: Role Limitations due to Emotional Problems,1
+Epilepsia ,Primera Persona ,He evolucionado para entender de una forma mucho más exhaustiva de qué modo afecta la incertidumbre,3,adaptación,Dimensión 7: Role Limitations due to Emotional Problems,1
+Epilepsia ,Primera Persona ,He evolucionado para entender de una forma mucho más exhaustiva de qué modo afecta la incertidumbre,3,empatía,Dimensión 8: Mental Health,1
+Epilepsia ,Primera Persona ,He evolucionado para entender de una forma mucho más exhaustiva de qué modo afecta la incertidumbre,3,incertidumbre,Dimensión 8: Mental Health,1
+Epilepsia ,Primera Persona ,de la epilepsia a las personas.,0,,,0
+Epilepsia ,Primera Persona ,Comparto mi experiencia,1,dar apoyo social,Dimensión 6: Social Functioning,1
+Epilepsia ,Primera Persona ,",  y fomento la percepción de llevar una buena vida conviviendo con la epilepsia",1,reevaluación positiva,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"me autoexploré es el tema estaba duchando y notaba que algo en el pecho derecho tenía como que no era normal y automáticamente me fui a mi ginecólogo 
+Ella me hizo unas pruebas y luego me mandó al cirujano y fue el cirujano no 
+me había dicho que apenas el primer diagnóstico palpándome que lo que tenía 
+era cáncer no te acostumbres a esa palabra ese día fue muy difícil",1,impacto diagnóstico,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,para mí mi mente quiere hacer más cosas que mi cuerpo no puede,2,frustración,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,para mí mi mente quiere hacer más cosas que mi cuerpo no puede,2,incapacidad física,Dimensión 1: Physical Functioning,1
+Cáncer ,Primera Persona ,o sea un pan aparte y lo que hay que intentar es intentar moverte no quedarte en casa yo lo intento Finalmente y hay que obligarse con una meta+,1,búsqueda metas,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,que es decir terminar el tratamiento,1,adherencia tratamiento,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,y empezar a remontar yo lo que digo ahora mismo es que yo ahora mismo Estoy en reforma experiencia aquí es maravillosa dentro de lo que es un tratamiento de cáncer es bastante bueno la gente es muy empática,1,búsqueda apoyo social emocional,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,aún esta ayuda no es fácil llevar este tratamiento,1,dificultad tratamiento,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,y sabes que cuando vienes están ahí me he sentido muy segura,1,seguridad tratamiento,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,porque date cuenta el mismo cirujano es el que me remitió la doctora,1,coordinación médica,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,a la doctora del castillo y la verdad que desde que estoy aquí estoy bastante tranquila porque Además está revisando Dependiendo el tratamiento te animan te dicen los posibles efectos secundarios,2,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,a la doctora del castillo y la verdad que desde que estoy aquí estoy bastante tranquila porque Además está revisando Dependiendo el tratamiento te animan te dicen los posibles efectos secundarios,2,información acerca tratamiento,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,Y cómo enfocarnos con lo cual estoy muy tranquila,1,tranquilidad,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,"El 15 de febrero de 2018, sí el DÍA MUNDIAL DEL CANCÉR INFANTIL, llevamos a nuestra pequeña Eider al pediatra por tercera vez en cuatro semanas porque no terminaba de remontar",1,búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Tercera Persona ,"de una bronquitis que había padecido en enero del mismo año, nuestro pediatra y amigo familiar desde ese momento nos envió al Hospital Universitario de Canarias",1,derivación médica,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Tercera Persona ,con todo el tacto del mundo,2,apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Tercera Persona ,con todo el tacto del mundo,2,buena comunicación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Tercera Persona ,", pero sin poder disimular que algo grave estaba ocurriendo.",0,,,0
+Cáncer ,Tercera Persona ,"Una vez allí todo es difuso: analítica, especialistas que vienen y van, hablan contigo sin darte mucha información",1,insatisfacción comunicación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Tercera Persona ,", más especialistas, caras de preocupación y más pruebas, más confusión",2,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,", más especialistas, caras de preocupación y más pruebas, más confusión",2,confusión,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,"y de repente la oscuridad, el vacío, el miedo",2,tristeza,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,"y de repente la oscuridad, el vacío, el miedo",2,miedo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Tercera Persona ,"Eider tiene leucemia, sube a la UCI pediátrica a la espera de mañana realizar aspirado medular y determinar los apellidos del “Bicho”, pero no pinta bien, no pinta nada bien",2,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,"Eider tiene leucemia, sube a la UCI pediátrica a la espera de mañana realizar aspirado medular y determinar los apellidos del “Bicho”, pero no pinta bien, no pinta nada bien",2,pesimismo,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,Las primeras 72h son vitales y a partir de ahí 60%/40% de supervivencia.,0,,,0
+Cáncer ,Tercera Persona ,Rabia,1,rabia,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,", desolación",2,desolación,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,", desolación",2,tristeza,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,", impotencia",1,impotencia,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,", negación",1,negación,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,"y dolor, infinito dolor, un dolor oscuro y agudo",1,malestar psicológico intenso,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,", de ese que no deja hinchar los pulmones durante días, cierras los ojos una y mil veces esperando a que, al abrirlos, todo haya sido una pesadilla",1,negación,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,", pero no eso no pasa, es una realidad.",0,,,0
+Cáncer ,Tercera Persona ,"Nos enfrentamos a un monstruo llamado leucemia mieloide aguda, un tipo de leucemia más propio de los adultos y que quiere arrancarnos a nuestra pequeña.",0,,,0
+Cáncer ,Tercera Persona ,"Ella solo quiere jugar, nos exige seguir jugando, no sabemos si serán los últimos momentos con ella pero ella ya tiene decidido cómo quiere afrontarlos, y es jugando, con su eterna sonrisa y es así como decidimos que todos juntos enfrentaríamos aquella batalla, hora a hora, día a día, sin pensar en mañana",1,vivencia momento presente,Dimensión 6: Social Functioning,1
+Cáncer ,Tercera Persona ,o si iba o no a venir un mal resultado.,0,,,0
+Cáncer ,Tercera Persona ,"Sin saber muy bien cómo, hemos intentando que todo fuera lo menos traumático para nuestra pequeña",1,aceptación responsabilidad,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,"Decidimos que todo aquello iba a ser un juego, un concurso, preparando a Eider para todo lo que iba viniendo",2,desarrollo personal,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,"Decidimos que todo aquello iba a ser un juego, un concurso, preparando a Eider para todo lo que iba viniendo",2,resiliencia,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,Todos los efectos secundarios de la quimio eran pruebas que tendría que superar para ir ganando recompensas.,0,,,0
+Cáncer ,Tercera Persona ,"Si hacía pipí azul significaba que la magia que le entraba por aquella manguerita la estaba convirtiendo poco a poco en un Hada, y si tenía suerte y era valiente “lograría perder el pelo” y así convertirse en la más poderosa de todas, el HADA CALVA.",0,,,0
+Cáncer ,Tercera Persona ,Y así fue como nos vimos tragando lágrimas,1,represión emocional,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,cuando tuvimos que cortarle el pelo por “exigencias del guion médico” y ella era la niña mas feliz del mundo porque por fin se estaba convirtiendo en ella.,0,,,0
+Cáncer ,Tercera Persona ,"Creo que ahí nos dimos cuenta de que, pasara lo que pasara, Eider iba a ganar esta guerra",1,esperanza,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,"Todo fue bien y, tras dos ciclos de quimio, nos dieron la mejor noticia del mundo, Eider estaba en remisión completa",2,curación,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,"Todo fue bien y, tras dos ciclos de quimio, nos dieron la mejor noticia del mundo, Eider estaba en remisión completa",2,remisión completa,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,", evitábamos el trasplante de médula ósea y pasábamos al ciclo de consolidación.",0,,,0
+Cáncer ,Tercera Persona ,"La leucemia mieloide de nuestra HADA CALVA estaba asociada a la inversión del cromosoma 16 y, por lo tanto, era de buen pronóstico, dos ciclos más y podríamos volver a casa tras casi 5 meses de ingreso casi continuo.",0,,,0
+Cáncer ,Tercera Persona ,"El alta llegó en junio y, hasta hoy, nuestra HADA CALVA sigue fuerte y libre de enfermedad.",0,,,0
+Cáncer ,Tercera Persona ,Somos conscientes de que nuestra lucha fue casi fugaz comparada con las que aquí se narran,1,comparación social,Dimensión 6: Social Functioning,1
+Cáncer ,Tercera Persona ,", pero queríamos agradecer",1,agradecimiento,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,"a todo el personal del Hospital Universitario de Canarias y a su equipo de oncología pediátrica por dar siempre el 100% por nuestra pequeña, y a la Fundación Josep Carreras, porque en su página encontramos esperanza",1,esperanza,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,e información,1,búsqueda información,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,"y sobre todo la certeza de que, si todo no iba tan bien como al final está yendo, siempre los tendríamos a ellos para cuidar de nosotros",1,satisfacción apoyo social emocional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,"y buscarnos un alma compatible, GRACIAS, GRACIAS Y MIL GRACIAS",1,agradecimiento,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,"Somos Noelia y Oscar, la madre y el padre de Rafa, a quién con un año y nueve meses le diagnosticaron leucemia linfoblástica aguda.",0,,,0
+Cáncer ,Tercera Persona ,"Habíamos oído hablar de la enfermedad, pero realmente no la conocíamos",1,falta información,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,No sabíamos el duro camino que nos quedaba por recorrer,1,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,y no sabíamos cómo esta enfermedad cambiaría nuestras vidas,1,futuro incierto,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,En el momento del diagnóstico miles de preguntas sin respuesta se apoderaron de nosotros,1,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,", generándonos sentimientos de miedo y de angustia (momento del diagnóstico)",2,miedo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Tercera Persona ,", generándonos sentimientos de miedo y de angustia (momento del diagnóstico)",2,angustia momento diagnóstico,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,", el miedo y angustia aún hoy permanecen a nuestro lado y que creemos que nunca acabarán de desaparecer",1,miedo angustia,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,El 23 de septiembre de 2016 llevamos a Rafa al HUCA (Hospital Universitario de Asturias) preocupados por una cojera que no acababa de mejorar y numerosos moratones en su cuerpo,1,preocupación problemas físicos,Dimensión 1: Physical Functioning,1
+Cáncer ,Tercera Persona ,Lo que nunca hubiésemos imaginado es que durante nueve meses este iba a ser prácticamente nuestro hogar,1,futuro incierto,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,"Largos periodos de hospitalización, con duras sesiones de quimio y algún que otro contratiempo se convirtieron en nuestro día a día, pero nuestro pequeñin pocas veces perdió su sonrisa, sus ganas de jugar y su curiosidad sin límite",1,resiliencia,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,Su alegría y su ilusión fueron sus mejores aliados,2,optimismo,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,Su alegría y su ilusión fueron sus mejores aliados,2,resiliencia,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,y nos dio a nosotros la fuerza,1,fortaleza,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,que a veces nos faltaba.,0,,,0
+Cáncer ,Tercera Persona ,Durante este periodo el personal sanitario se convirtió casi en nuestra familia,1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,También encontramos refugio en otras familias,1,satisfacción apoyo social emocional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,que pasaban por momentos similares,1,comparación social,Dimensión 6: Social Functioning,1
+Cáncer ,Tercera Persona ,", compartiendo temores y pequeñas victorias",1,expresión emocional,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Tercera Persona ,y reconfortándonos en momentos complicados,1,satisfacción apoyo social emocional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,"En junio de 2017 dejó atrás las hospitalizaciones y Rafa continuó su tratamiento en el hospital de día, lo que nos permitió ir recuperando poco a poco la normalidad en nuestras vidas",1,normalización,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,"Podíamos alternar las visitas al hospital con tardes en el parque, visitas familiares, excursiones…",1,adaptación día día,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Tercera Persona ,¡por fin podíamos disfrutar al aire libre que tanto necesitábamos,1,disfrute ocio tiempo libre,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,y teníamos la oportunidad de empezar a recuperar el tiempo perdido!,1,disfrute ocio tiempo libre,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,"Fue una gran alegría que Rafa pudiera comenzar primero de infantil en el colegio, una nueva etapa que se desarrolló casi con normalidad, sin apenas contratiempos",1,adaptación entorno educativo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Tercera Persona ,"El colegio, sus primeros amigos, los juegos con sus primos, el parque…",2,satisfacción vida social,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Tercera Persona ,"El colegio, sus primeros amigos, los juegos con sus primos, el parque…",2,normalización,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,"ocupaban la mayor parte de su tiempo, como el de cualquier otro niño de su edad",1,comparación social,Dimensión 6: Social Functioning,1
+Cáncer ,Tercera Persona ,y nuestros miedos por primera vez nos permitían tener momentos de tranquilidad,1,tranquilidad,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,Así transcurrió casi sin darnos cuenta un año.,0,,,0
+Cáncer ,Tercera Persona ,"En octubre de 2018, días después de finalizar su tratamiento, una ligera cojera y unos moratones lo llevaron de nuevo al hospital, donde se confirmaron nuestros peores presentimientos",1,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,: Rafa había recaído,1,recaída enfermedad,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,Otra vez multitud de sentimientos se removieron en nosotros: rabia,1,rabia,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,", miedo",1,miedo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Tercera Persona ,", angustia",1,angustia,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,", tristeza",1,tristeza,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,… pero siempre esperanza,1,esperanza,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,"Con dos años más, ya tiene 4 años, a Rafa le toca seguir luchando",1,espíritu lucha,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,"y, aunque más consciente de su enfermedad",1,conciencia enfermedad,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,", no ha perdido su alegría, ni sus ganas de jugar ni mucho menos su gran sonrisa",1,alegría,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,"Ya lleva dos meses de tratamiento, con periodos de aislamiento y duras sesiones de quimio con sus primeras secuelas, pero lejos de desanimarse, Rafa sigue demostrando día a día su valentía",2,valentía,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,"Ya lleva dos meses de tratamiento, con periodos de aislamiento y duras sesiones de quimio con sus primeras secuelas, pero lejos de desanimarse, Rafa sigue demostrando día a día su valentía",2,espíritu lucha,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,Ahora toca preparase para el trasplante de médula ósea,1,afrontamiento centrado problema: tratamiento,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Tercera Persona ,", otro complicado camino al que hacer frente",1,espíritu lucha,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,La Fundación Josep Carreras está buscando en el mundo esa alma gemela compatible con Rafa,2,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,La Fundación Josep Carreras está buscando en el mundo esa alma gemela compatible con Rafa,2,satisfacción apoyo social profesional,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Tercera Persona ,Con los avances médicos,1,esperanza,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,", el personal sanitario cuidándolo",1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,", nuestra familia y amigos/as apoyándonos incondicionalmente",1,satisfacción apoyo social familiar emocional,Dimensión 6: Social Functioning,1
+Cáncer ,Tercera Persona ,", solo necesitamos encontrar esa médula que nos permita seguir luchando junto a nuestro hijo",1,afrontamiento centrado problema: tratamiento,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Tercera Persona ,", porque tenemos pensado ganar esta batalla.",0,,,0
+Cáncer ,Tercera Persona ,la ganaremos,1,espíritu lucha,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"Soy un paciente que lleva una serie de sesiones de radioterapia y quiero felicitarle por la calidad, tanto profesional como humana del personal, con que cuenta el centro y por el que soy atendido, desde el doctor, la enfermera y la chica de admisión, como los técnicos del aparato que aplica las sesiones y su personal de prácticas.",0,,,0
+Cáncer ,Primera Persona ,"Todos ellos tienen una exquisita delicadeza, amabilidad y trato correcto",1,satisfacción relación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,", tal que psicológicamente hacen que yo sienta una extrema confianza y tranquilidad",1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"nada más poner el pie en el centro, contribuyendo, de esa manera, a aumentar las posibilidades de una recuperación pronta y positiva.",0,,,0
+Cáncer ,Primera Persona ,Por ello le reitero mis felicitaciones y agradecimiento,1,agradecimiento apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,al contar con personal de esa calidad y competencia,1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,y les doy las gracias a todos ellos por ayudarme a superar mi problema de salud,1,agradecimiento apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,que causa el uso de su centro.,0,,,0
+Cáncer ,Primera Persona ,"Al escuchar a mi urólogo que la palabra “cáncer” se había incrustado en parte de mi ser, caí al instante en un apocamiento",1,tristeza,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,mucho más profundo y desconcertante,1,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,que cualquier estado de desánimo vivido hasta entonces.,0,,,0
+Cáncer ,Primera Persona ,"Con la misma celeridad de cómo las células malignas tratan de extenderse silenciosamente por los tejidos de cualquier órgano humano, el aviso canceroso tomó cuerpo dentro de mí con extraños golpes cerebrales, que me provocaron una repentina caída de derrota.",0,,,0
+Cáncer ,Primera Persona ,"Vi, de repente, las múltiples aristas hirientes que esconde el vocablo fantasmal “cáncer”; y fui consciente",1,conciencia enfermedad,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"de que no era una mera abstracción mental, sino una funesta realidad interiorizada ahora en mí .",0,,,0
+Cáncer ,Primera Persona ,Llegó el momento en que preferí no transmitir ningún desasosiego a mis familiares y amigos,2,sobreprotección,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,Llegó el momento en que preferí no transmitir ningún desasosiego a mis familiares y amigos,2,secretismo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,", enfundarme con una coraza anímica que me hiciera más fuerte y luchador",1,espíritu lucha,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,", infundirles que la batalla emprender terminará victoriosa",1,espíritu lucha,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"Con esas sanas intenciones llegué a GenesisCare, centro oncológico emplazado en La Cartuja de Sevilla.",0,,,0
+Cáncer ,Primera Persona ,"Enseguida, me recibió el médico radioterapeuta Dr.",0,,,0
+Cáncer ,Primera Persona ,don José Antonio González Ferreira.,0,,,0
+Cáncer ,Primera Persona ,Durante una sincera y abierta entrevista con él,1,satisfacción comunicación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,", palpé que había entrado en un hospital que suponía una prolongación de mi ámbito familiar",1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"Con destreza pedagógica, me explicó cuál era mi situación, las diferentes formas posibles de actuación y el tratamiento adecuado para mi mal, todo detallado con profesionalidad y con palabras rebosantes de humanidad",1,satisfacción comunicación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,"Tenía ante mí a una persona docta que infundía confianza, tranquilidad, esperanza, amabilidad, energía, optimismo y naturalidad",1,satisfacción comunicación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,GenesisCare no es un hospital al uso,1,comparación,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"Aquí, recibo un trato exquisito y muy personalizado, que hace olvidarme de ser un paciente",1,satisfacción comunicación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,Al Dr.,0,,,0
+Cáncer ,Primera Persona ,"González Ferreira, alma páter de GenesisCare, le acompaña un equipo de profesionales a los que considero que son piezas fundamentales de la apasionante empresa colectiva de curar: doña Cristina Bonilla Jiménez allana los trámites administrativos y la enfermera doña Soledad Guerra Rodríguez vela, tal como si fuera nuestra madre",1,satisfacción comunicación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,", por la preparación previa para las sesiones de radioterapia y está muy pendiente de las recomendaciones de los cuidados necesarios .",0,,,0
+Cáncer ,Primera Persona ,Realiza su labor con gran precisión y dulzura.,0,,,0
+Cáncer ,Primera Persona ,Mima al enfermo hasta el extremo de que este retrocede grata y mentalmente a su infancia maternal.,0,,,0
+Cáncer ,Primera Persona ,Don José Ignacio RodríguezPalacios Valderrama y don Carlos Rua Sobrino son los técnicos de radioterapia.,0,,,0
+Cáncer ,Primera Persona ,"Ayudado por ellos, diariamente, sigo correteando por los espacios que siempre habité, sin miedo alguno a lo venidero y desconocido; a la espera deseada de que los rayos emitidos por una máquina que parece haber salido de otra galaxia alcancen la zona afectada y generen vida",1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,Gira la máquina en torno a mí; y unos minutos que presagiaba como terroríficos alcanzan milagrosamente la categoría de casi poéticos.,0,,,0
+Cáncer ,Primera Persona ,¡Qué difícil conseguir que los latidos de un corazón descompasado se tornen capaces de remover mis fuerzas! ¡Nombres de mujeres y hombres que habéis conseguido transformar mi día frío e incierto en haces de luz esperanzadora,2,satisfacción apoyo social emocional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,¡Qué difícil conseguir que los latidos de un corazón descompasado se tornen capaces de remover mis fuerzas! ¡Nombres de mujeres y hombres que habéis conseguido transformar mi día frío e incierto en haces de luz esperanzadora,2,esperanza,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,! Gracias a vosotros,1,agradecimiento,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,", no lloro la desesperanza ni exhalo frío aliento.",0,,,0
+Cáncer ,Primera Persona ,De mis ojos no se derrama lágrima alguna ni tristeza ni desconsuelo.,0,,,0
+Cáncer ,Primera Persona ,Sé con certeza que las acciones médicas y el cuidado amoroso de vosotros harán brotar en el árbol de mi vida una ramilla cargada de nueva savia,1,esperanza,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,Gracias de corazón a todo el equipo de GenesisCare,1,agradecimiento,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"Seguro que conseguiréis vuestro reto propuesto y, entonces, aflorará otro milagro de primavera.",0,,,0
+Cáncer ,Primera Persona ,nos llama costes y eso pues estuve un poquito mejor pero yo no pensaba que era la mejoría por el tratamiento yo pensaba que era una casualidad porque algunas veces me dolía mucho,1,dolor,Dimensión 3: Bodily Pain,1
+Cáncer ,Primera Persona ,otra vez m no pero cuando toda la noche no me dolió y cuando me levanté por la mañana apenas me dolía echando un poquito la pierna afuera de la cama un poquito pero luego ya después del mediodía tuve que llamar a mi hijo y decírselo que había notado una mejoría tremenda vaya,0,,,0
+Cáncer ,Primera Persona ,La salvación no era un lugar o una persona a donde ir para evadirse o en la que apoyarse para levantarse.,0,,,0
+Cáncer ,Primera Persona ,La salvación era una actitud mía tan propia e individual como irrepetible e intransferible pero común a todos los valientes que han tenido que vencer alguna batalla en su vida para seguir viviendo y testimoniar dónde se debe de buscar la salvación: el hombre que se rinde sólo conoce su miseria,1,espíritu lucha,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,Empecé la quimioterapia y después la radioterapia,1,afrontamiento centrado problema: tratamiento,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,Recuerdo que cuando entré la primera vez en la sala me dieron muchas ganas de llorar,1,llanto,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,Me sentía muy desgraciada,2,malestar emocional,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,Me sentía muy desgraciada,2,comparación social,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,", pero al mismo tiempo, el cariño con el que me trataron las doctoras, las enfermeras",1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,y la seguridad de que lo que iba a empezar me iba a curar en unos cuantos meses,1,esperanza,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,", me hizo fuerte",2,resiliencia,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,", me hizo fuerte",2,fortaleza,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,Me convencí de que tenía suerte porque lo que me estaba pasando se podía curar,1,evaluación positiva,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"He comenzado sesiones con Ruth, la psicooncóloga, que me ayudan muchísimo",1,satisfacción apoyo profesional psicológico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,"Las sesiones me sirven para disipar miedos, para obtener información experta de cómo afrontar algunas situaciones personales y familiares, y sobre todo me han ayudado para aceptar que me ha tocado sufrir esta enfermedad",1,aceptación enfermedad,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"y que no ha sido por mi culpa, sino porque forma parte de la vida misma.",0,,,0
+Cáncer ,Primera Persona ,"Así, he aprendido a ver la vida de otra manera",1,evaluación positiva,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,", y a darle menos importancia a cosas por las que antes podía enfadarme",2,relativización,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,", y a darle menos importancia a cosas por las que antes podía enfadarme",2,desarrollo personal,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,Hay que destacar el innegable bastión que entraña el papel de la familia a lo largo de todo el proceso,1,satisfacción apoyo social familiar,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,"Tu familia lo es todo: a la hora de encajar el primer tortazo, a la hora de organizar la pelea, a la hora de luchar cada día… Es tu principal ejército",1,satisfacción apoyo social familiar,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,"Echar mano de tu gente, de tus amistades, compartiendo con ellos el día a día,",1,búsqueda apoyo social emocional,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,sin duda contribuye a mantener una actitud positiva,1,optimismo,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,y colaboradora hacia los tratamientos,1,adherencia tratamiento,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,"Soy Maite Arenas, una paciente curada",1,remisión enfermedad,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,de un carcinoma epidermoide infiltrado en cuerda vocal izquierda.,0,,,0
+Cáncer ,Primera Persona ,"Muchos no sabrán qué es esta enfermedad, yo tampoco lo sabía cuando me la diagnosticaron, y lo más importante que lograría curarme",1,remisión enfermedad,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,y que 12 años después mi vida habría cambiado por completo.,0,,,0
+Cáncer ,Primera Persona ,No fue fácil llegar a este diagnóstico,1,dificultad proceso diagnóstico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,", ya que yo no era una “paciente tipo”: no fumaba, ni bebía, ni tenía una profesión de riesgo.",0,,,0
+Cáncer ,Primera Persona ,"Todo empezó en el año 2002 me tuvieron que realizar una tirotomía total y al recuperarme de la intervención empecé a tener perdidas de voz intermitentes, este síntoma hizo que durante tres años tuviera que ir de otorrino en otorrino pensando que podía ser una secuela de la propia extirpación del tiroides.",0,,,0
+Cáncer ,Primera Persona ,Nadie le dio importancia pero volví a intervenirme para ponerme un implante de grasa en una de las cuerdas vocales para recuperar la voz y ahí el cirujano sospechó que algo no iba bien y tomó una muestra para hacerme una biopsia.,0,,,0
+Cáncer ,Primera Persona ,"El resultado fue “carcinoma epidermoide infiltrado” y como mi padre era médico, le pregunté que era eso, y me dijo: “Hija tienes cáncer”.",0,,,0
+Cáncer ,Primera Persona ,Así me enteré de lo que me pasaba.,0,,,0
+Cáncer ,Primera Persona ,Ninguno de los especialistas que me habían visto sospechó nunca lo que tenía,1,dificultad diagnóstico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,Quizás fue así porque no respondía al prototipo de paciente de cáncer de cabeza y cuello.,0,,,0
+Cáncer ,Primera Persona ,Tener que volver a aprender a hablar,1,afrontamiento centrado problema,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"No fue la enfermedad lo que me cambió la vida, sino la secuela que me dejó la cirugía: una laringotomía total.",0,,,0
+Cáncer ,Primera Persona ,En un primer momento me negué a la intervención,1,negación implicación,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,", nunca había visto mujeres operadas de este tipo de tumor y los hombres que había conocido eran mayores, fumadores y su calidad de recuperación no me parecía muy buena",1,comparación social,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,Así que pedí a mi médico que primero me hicieran un tratamiento de radioterapia para no tener que llegar a la extirpación de la laringe,1,afrontamiento centrado problema,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,", pero el tratamiento en mi caso no dio los resultados esperados, así que no me quedó más remedio que ir a una cirugía de rescate y en julio de 2005 me extirparon la laringe y 25 ganglios del lado izquierdo.",0,,,0
+Cáncer ,Primera Persona ,"La cicatrización se complicó, tuve fistulas y lo que iba a durar unos 15 días de ingreso se convirtieron en 40 y con una sonda nasogástrica durante tres meses",1,complicación tratamiento,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,Esto no era como yo me esperaba y veía que la recuperación no iba a ser tan sencilla como me imaginaba,1,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"Había perdido la voz, el gusto y el olfato poco a poco y la comunicación era muy complicada",3,limitaciones dominio físico: voz,Dimensión 1: Physical Functioning,1
+Cáncer ,Primera Persona ,"Había perdido la voz, el gusto y el olfato poco a poco y la comunicación era muy complicada",3,gusto,Unclassified,1
+Cáncer ,Primera Persona ,"Había perdido la voz, el gusto y el olfato poco a poco y la comunicación era muy complicada",3,olfato comunicación,Unclassified,1
+Cáncer ,Primera Persona ,Tenía que volver aprender hablar y a comunicarme de forma diferente.,0,,,0
+Cáncer ,Primera Persona ,Mi mayor sorpresa fue que no había,1,decepción,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,un protocolo multidisciplinar para la rehabilitación de este tipo de pacientes,1,falta apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,Tardé un tiempo en buscarme un buen foniatra y un equipo de logopedas,1,búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,", que en solo 22 días me enseñaron a emitir los primeros sonidos y a empezar hablar con el esfínter esofágico.",0,,,0
+Cáncer ,Primera Persona ,"También me busqué un preparador físico para ponerme en forma: los hombros, el cuello y los brazos",1,búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,Sigo yendo al fisioterapeuta una vez a la semana para quitarme el dolor crónico de cuello y hombros,1,dolor crónico,Dimensión 1: Physical Functioning,1
+Cáncer ,Primera Persona ,Pero lo que nadie me dijo es que necesitaría ayuda psicológica para aceptar las secuelas y rehacer mi vida de forma diferente,1,búsqueda apoyo profesional psicológico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,Tuve que asistir a una terapia grupal de mujeres con diferentes cánceres que me ayudó mucho a verbalizar todo mi dolor y mis emociones,2,búsqueda apoyo social emocional,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,Tuve que asistir a una terapia grupal de mujeres con diferentes cánceres que me ayudó mucho a verbalizar todo mi dolor y mis emociones,2,expresión emocional,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,"No me ven como una paciente curada 
+ 
+He aprendido a hablar de forma diferente, con muy buena calidad de voz",1,adaptación,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,y a que los demás vean mi agujero en el cuello como algo más de mi personalidad,1,normalización implicaciones enfermedad,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,Pero jamás pensé que sería permanentemente juzgada por la sociedad,1,estigmatización social,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,"Era una persona deportista, no fumadora ni bebedora, con una vida completamente sana y me tocó padecer un tipo de cáncer que conlleva que todo el mundo piense que eres fumadora y con una vida poco saludable estigmatización social]",0,,,0
+Cáncer ,Primera Persona ,"En definitiva, supone el esfuerzo extra de dar permanentemente explicaciones sobre una enfermedad que no me he buscado sino que me llegó como a otros les toca otras muchas enfermedades.",0,,,0
+Cáncer ,Primera Persona ,Nadie me ve como una persona curada.,0,,,0
+Cáncer ,Primera Persona ,"Es duro enfrentarte al día a día cuando vas al supermercado, a la gasolinera o en el autobús y siempre te encuentras con que te preguntan que qué me pasa en la voz.",0,,,0
+Cáncer ,Primera Persona ,No es fácil tener que oír el mensaje “Nunca he visto una mujer operada como usted”.,0,,,0
+Cáncer ,Primera Persona ,Es difícil estar siempre preparada para cualquier comentario o para las continuas miradas que hacen que tu vida sea muy estresante,2,estigmatización,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,Es difícil estar siempre preparada para cualquier comentario o para las continuas miradas que hacen que tu vida sea muy estresante,2,incomprensión social,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,Al principio lloraba mucho al salir a la calle,1,llanto,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,hasta que me di cuenta que el problema era mío y no de los demás,1,aceptación responsabilidad,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"Yo había cambiado y la mejor terapia era olvidar mi pasado, vivir el presente y no pensar en el futuro",1,vivencia momento presente,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,He aprendido que a lo largo de la vida las personas superan enfermedades,1,desarrollo personal,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,", de unas te curas sin secuelas visibles, de otras las secuelas que deja la enfermedad son tan evidentes que hacen que tu esfuerzo ante la sociedad sea mayor.",0,,,0
+Cáncer ,Primera Persona ,Me hace mucha gracia como en mis viajes se me acercan personas para contarme que ellas también han padecido un cáncer,1,satisfacción apoyo social emocional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,y como no se les ven sus secuelas se sienten en la obligación de comunicarse conmigo para empatizar con mi situación,1,comparación social,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,"Terminan contándome su historia clínica y me dicen : “¡Qué duro es el agujero en el cuello!”, mi seña de identidad",1,satisfacción apoyo social emocional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,He comprendido por qué a muchos pacientes les cuesta mucho salir de casa y terminan encerrándose.,0,,,0
+Cáncer ,Primera Persona ,Esta secuela hace que tengas que aprender a gestionar la soledad y la tristeza para no sufrir más de lo necesario,3,afrontamiento centrado emoción,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,Esta secuela hace que tengas que aprender a gestionar la soledad y la tristeza para no sufrir más de lo necesario,3,soledad,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,Esta secuela hace que tengas que aprender a gestionar la soledad y la tristeza para no sufrir más de lo necesario,3,tristeza,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,No tener una preparación intelectual y medios económicos hace que muchos de estos pacientes no lleguen a comprender bien lo que supone esta cirugía y que confundan la propia enfermedad con la secuela.,0,,,0
+Cáncer ,Primera Persona ,"Incluso algunos pacientes que son largos supervivientes, con más de 15 o 20 años de control de la enfermedad, no se consideran curados y creen que la laringotomía es la enfermedad y no la secuela que le ha dejado",1,comparación social,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,"No juzgar a los pacientes de cáncer de cabeza y cuello 
+ 
+Pido a todos que cuando veáis a pacientes de cáncer de cabeza y cuello, con secuelas evidentes que no podemos ocultar, no se nos juzgue y se nos vea como personas que hemos logrado superar la enfermedad y sus secuelas",2,necesidad educar concienciar acerca enfermedad,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"No juzgar a los pacientes de cáncer de cabeza y cuello 
+ 
+Pido a todos que cuando veáis a pacientes de cáncer de cabeza y cuello, con secuelas evidentes que no podemos ocultar, no se nos juzgue y se nos vea como personas que hemos logrado superar la enfermedad y sus secuelas",2,estigmatización,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,Mi vida hoy es fantástica,1,evaluación positiva,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,", viajo por todo el mundo y estoy trabajando activamente en mejorar la calidad de vida de los pacientes de cabeza y cuello.",0,,,0
+Cáncer ,Primera Persona ,Me siento realizada con esta labor y mi “nueva vida”,1,desarrollo personal,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"Mi mayor reivindicación es que se llegue a un buen protocolo de rehabilitación para los pacientes con esta enfermedad que incluya especialistas como: logopedas, fisioterapeutas, psicólogos y trabajadores sociales.",0,,,0
+Cáncer ,Primera Persona ,,1,necesidad coordinación médica,Dimensión 9: Healthcare Interaction,1
+Epilepsia ,Primera Persona ,Desde muy pequeña ya empecé a adentrarme en el mundo de la epilepsia porque mi padre la padece.,0,,,0
+Epilepsia ,Primera Persona ,"A mí me la diagnosticaron a la edad de 15 años, pero debido a su historial, creía que sabía todo aquello que debía saber.",0,,,0
+Epilepsia ,Primera Persona ,"Cuando conocí a un epileptólogo, aprendí mucho más sobre la epilepsia y me di cuenta de mi error.",0,,,0
+Epilepsia ,Primera Persona ,Me volví más proactiva con mis cuidados de salud y busqué un mejor tratamiento,1,afrontamiento centrado problema,Dimensión 5: Vitality,1
+Epilepsia ,Primera Persona ,Ahora tengo una mejor percepción sobre la epilepsia y cuento con un magnífico médico que sabe escucharme,1,satisfacción comunicación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Epilepsia ,Primera Persona ,Comparto mi experiencia,1,expresión emocional,Dimensión 7: Role Limitations due to Emotional Problems,1
+Epilepsia ,Primera Persona ,y fomento la percepción de llevar una buena vida conviviendo con la epilepsia.,0,,,0
+Epilepsia ,Primera Persona ,La educación es la clave de la comprensión,1,afrontamiento centrado problema: formación,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"Desde que hace un año me detectaron un tumor en el pecho, me operaron y me sometí a un tratamiento oncológico, mi manera de tomarme la vida en general ha cambiado",2,desarrollo personal: dejado preocuparme cosas importancia,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"Desde que hace un año me detectaron un tumor en el pecho, me operaron y me sometí a un tratamiento oncológico, mi manera de tomarme la vida en general ha cambiado",2,disfruto pequeñas cosas [evaluación positiva-disfrute,Unclassified,1
+Cáncer ,Primera Persona ,", cuido mi alimentación mucho más de lo que lo hacía antes",1,afrontamiento centrado problema-alimentación,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,e intento ser sumamente positiva,1,evaluación positiva,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,La actitud mental es básica en estos procesos y esa actitud te lleva a relativizar todos los tropiezos que nos encontramos en el camino,1,relativización,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"Con el cáncer me he dado cuenta, que he podido superar muchas situaciones, miedos y bloqueos que tenía",1,desarrollo personal,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,", que con optimismo",1,optimismo,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"se sobrelleva todo mejor, que es muy importante saber escuchar a nuestro cuerpo",1,conciencia enfermedad,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,", que los cambios cuestan, pero valen la pena",1,espíritu lucha,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"y, sobre todo, que ahora valoro cada instante que vivo, cada momento que río y cada sentimiento de amor que siento",1,disfrute momento presente,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,Vivamos y no esperemos a que nos llegue un cáncer para darnos cuenta de estas cosas,1,vivencia momento presente,Dimensión 6: Social Functioning,1
+Diabetes ,Tercera Persona ,"A Eva le descubrieron la diabetes en el embarazo, en un primer momento tanto ella como su doctora pensaron que podía ser una diabetes del tipo gestacional.",0,,,0
+Diabetes ,Tercera Persona ,"Sin embargo, unos meses después del nacimiento de su hija, se confirmó el diagnóstico",1,confirmación diagnóstico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,de diabetes tipo 2.,0,,,0
+Diabetes ,Tercera Persona ,Ella considera que posiblemente antes del embarazo ya tenía unos niveles altos de azúcar en sangre y que se encontraba en los límites de la diabetes.,0,,,0
+Diabetes ,Tercera Persona ,"En el momento del diagnóstico, Eva asociaba la diabetes con tener que pincharse insulina por lo que le daba mucho miedo la enfermedad",1,miedo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Diabetes ,Tercera Persona ,Durante el embarazo le recomendaron una dieta especial,1,afrontamiento centrado problema: dieta,Unclassified,1
+Diabetes ,Tercera Persona ,"Cuando se confirmó que la diabetes no era gestacional la doctora le indicó tratamiento con pastillas, además de mantener una dieta equilibrada y de practicar ejercicio físico",1,búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Se ha apuntado a clases de bailes regionales, clásico, español y flamenco como forma de ejercicio, además de caminar.",0,,,0
+Diabetes ,Tercera Persona ,La doctora le ha recomendado hacer además otro tipo de ejercicio que reafirme la musculatura,1,afrontamiento centrado problema: actividad física,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,"Considera que el hecho de tener sobrepeso en el momento del diagnóstico, pudo ser uno de los motivos de la aparición de la diabetes.",0,,,0
+Diabetes ,Tercera Persona ,Además piensa que su trabajo en la hostelería impedía que tuviera unos hábitos alimenticios saludables.,0,,,0
+Diabetes ,Tercera Persona ,"Actualmente, siguiendo las prescripciones de la doctora",1,adherencia tratamiento,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,está bajando de peso y ha cambiado de empleo,1,cambio laboral,Dimensión 7: Role Limitations due to Emotional Problems,1
+Diabetes ,Tercera Persona ,"Tanto su familia como la doctora de atención primaria que la trata, son un apoyo fundamental",2,satisfacción apoyo emocional familiar,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"Tanto su familia como la doctora de atención primaria que la trata, son un apoyo fundamental",2,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"y le dan mucha energía y ánimo, aprendiendo poco a poco a llevar esta situación de la mejor manera posible.",0,,,0
+Diabetes ,Tercera Persona ,A Felipe le diagnostican la diabetes en 2006,1,diagnóstico enfermedad,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,Empezó a sentir algunos síntomas,1,conciencia primeros síntomas,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"que le alertaron de que su cuerpo no funcionaba con normalidad: mucha sed, ganas de orinar, hambre y calor en el cuerpo",1,conciencia primeros síntomas,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"Todos estos síntomas junto con los antecedentes familiares de diabetes, le hicieron sospechar que podría tener esta enfermedad",1,conciencia síntomas,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,Al poco tiempo fue al centro de salud para que le hicieran las pruebas necesarias,1,búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"y descubrió que sus niveles de azúcar llegaban a 500 mg/dl, por lo que le ingresaran en el hospital inmediatamente para observarlo y controlarle",1,afrontamiento centrado problema,Dimensión 5: Vitality,1
+Diabetes ,Tercera Persona ,"Felipe considera que en el momento del diagnóstico llevaba unos hábitos de vida saludables, atribuyendo la aparición de la diabetes a causas emocionales",1,culpabilización,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,Su primera preocupación después del diagnóstico fue su situación económica,1,dificultades económicas,Dimensión 7: Role Limitations due to Emotional Problems,1
+Diabetes ,Tercera Persona ,y laboral,1,dificultades laborales,Dimensión 3: Bodily Pain,1
+Diabetes ,Tercera Persona ,debido a su condición de trabajador autónomo la que le exige un esfuerzo físico importante.,0,,,0
+Diabetes ,Tercera Persona ,Lo que más le costó al principio fue aprender a pincharse la insulina,1,dificultades tratamiento,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,", pero con el tiempo lo vive con normalidad",1,normalización tratamiento,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,Felipe valora positivamente la labor de la enfermera educadora en diabetes,1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,En cuanto a los especialistas de endocrino en los hospitales considera que no le han podido atender con el detenimiento que su caso requeriría,1,falta apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,", debido fundamentalmente a la falta de medios materiales, sobrecarga laboral y la falta de demanda de los pacientes hacia el sistema sanitario",1,falta apoyo/recursos profesionales,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Felipe considera que con la diabetes se puede llevar una vida completamente normal, siempre y cuando se controle la dieta y se realice ejercicio físico.",0,,,0
+Diabetes ,Tercera Persona ,,1,adherencia tratamiento: dieta actividad física,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Xavier afirma que no sentía ningún síntoma que le hiciera pensar que tenía diabetes, sin embargo, siempre pensó que en cualquier momento podía desarrollarla debido a que su abuela fue diabética y conocía el carácter hereditario de la enfermedad",2,incertidumbre,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,"Xavier afirma que no sentía ningún síntoma que le hiciera pensar que tenía diabetes, sin embargo, siempre pensó que en cualquier momento podía desarrollarla debido a que su abuela fue diabética y conocía el carácter hereditario de la enfermedad",2,preocupación componente genético,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,"Considera que el hecho de no tener síntomas claros en sus primeras etapas, puede ser peligroso y podría haber muchas personas que no saben que tienen diabetes porque puede pasar inadvertido como le sucedió a él.",0,,,0
+Diabetes ,Tercera Persona ,"Después del diagnóstico, Xavier se tomó con seriedad el hecho de hacer ejercicio físico y controlar la dieta",1,adherencia tratamiento: dieta actividad física,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Periódicamente, en estos cinco años, ha logrado disminuir su peso en unos 2025 kilos disminuyendo el consumo de dulces e incorporando más consumo de frutas, lo cual considera que ha sido muy bueno para su salud",1,adherencia dieta,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Él piensa que el paciente con diabetes necesita concienciarse de su nueva situación, y darle mucha importancia a los cuidados en la alimentación y la práctica de ejercicio físico",1,adherencia tratamiento: dieta actividad física,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Considera que en su caso, desde el diagnóstico no le ha supuesto un cambio radical en su vida y que con el tiempo se aprende a vivir con la enfermedad.",0,,,0
+Diabetes ,Tercera Persona ,,1,adaptación enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"En junio del año 93, Francisco empezó a sentir mucha sequedad en la boca, bebía mucha agua y una “pesadez en el cuerpo” con sensación de cansancio",1,conciencia primeros síntomas: sequedad boca: pesadez cansancio,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,Reconoce ser reacio a acudir al médico por lo que fue retrasándolo hasta que finalmente decidió consultarlo,1,evitación búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,Su médico de cabecera le hizo varios análisis que confirmaron el diagnóstico de diabetes,1,confirmación diagnóstico diabetes,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,y le remitió al endocrino,1,derivación especialista médico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,En ese momento considera que la le enfocaron la enfermedad de forma pesimista,1,insatisfacción apoyo profesional médico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Buscando una segunda opinión acudió a un médico privado, indicándole que la causa de la diabetes venía provocada por su exceso de peso (en ese momento pesaba 160 kilos) y que con dieta y ejercicio podía controlar la diabetes mucho",1,búsqueda apoyo profesional: segunda opinión médica,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Le prescribieron un tratamiento con pastillas y le recomendaron que controlara la alimentación, señala que esto último es lo que más le costó porque es una persona a la que le gusta mucho los alimentos dulces",1,dificultad adherencia tratamiento: dieta,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,Después de seis meses con pastillas le realizaron un análisis que daba unos resultados desfavorables.,0,,,0
+Diabetes ,Tercera Persona ,Le prescribieron insulina durante un tiempo teniendo muy buenos resultados,1,satisfacción tratamiento médico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Además logró bajar unos 30 kilos, siguiendo un estricto plan de comidas",1,satisfacción adherencia tratamiento: dieta,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"Tras esta mejoría, su médico optó por eliminar la insulina y volver a las pastillas",1,ajuste tratamiento,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,Francisco dejó de ser tan estricto durante unos años,1,reducción adherencia tratamiento,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Fue hace unos cinco o seis años, con el cambio de médico",1,búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"y posteriormente con el diagnóstico de diabetes de su mujer, está llevando un mejor control",1,adherencia tratamiento,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,Señala que se hace análisis generales cada seis meses con lo que considera que tiene un buen control de la enfermedad y de posibles complicaciones asociadas,1,seguimiento enfermedad consecuencias,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,Francisco considera importante que la persona diabética se informe sobre la enfermedad y evite los excesos,2,formación enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,Francisco considera importante que la persona diabética se informe sobre la enfermedad y evite los excesos,2,adherencia tratamiento: hábitos vida saludables,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"Considera que lo más difícil es el cambio en los hábitos de vida que requiere la diabetes, sobre todo porque es como una enfermedad silenciosa que no manifiesta los síntomas de forma clara.",0,,,0
+Diabetes ,Tercera Persona ,,1,dificultad diagnóstico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Milagros colabora desde hace unos años con la asociación de diabetes de su localidad, debido a que su madre y su hermana padecen también esta enfermedad.",0,,,0
+Diabetes ,Tercera Persona ,"Fue a finales de agosto del 2008, cuando Milagros empezó a sentir algunos síntomas tales como picor en el cuerpo, sequedad en la boca y mucha sed y una sensación de intranquilidad",4,conciencia primeros síntomas: picor,Dimensión 3: Bodily Pain,1
+Diabetes ,Tercera Persona ,"Fue a finales de agosto del 2008, cuando Milagros empezó a sentir algunos síntomas tales como picor en el cuerpo, sequedad en la boca y mucha sed y una sensación de intranquilidad",4,sequedad boca,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,"Fue a finales de agosto del 2008, cuando Milagros empezó a sentir algunos síntomas tales como picor en el cuerpo, sequedad en la boca y mucha sed y una sensación de intranquilidad",4,sed,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,"Fue a finales de agosto del 2008, cuando Milagros empezó a sentir algunos síntomas tales como picor en el cuerpo, sequedad en la boca y mucha sed y una sensación de intranquilidad",4,intranquilidad,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,Debido a que su marido también es diabético se midió el azúcar con el aparato que tenía en casa y descubrió unos niveles anormales,1,afrontamiento centrado problema,Dimensión 5: Vitality,1
+Diabetes ,Tercera Persona ,Milagros se encontraba en un momento vital con mucho estrés,1,estrés,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,por problemas familiares,1,dificultades familiares,Dimensión 7: Role Limitations due to Emotional Problems,1
+Diabetes ,Tercera Persona ,y laborales,1,dificultades laborales,Dimensión 3: Bodily Pain,1
+Diabetes ,Tercera Persona ,"Esta situación le afectó su estado de ánimo que, según ella, pudo ser el detonante de la aparición de la diabetes.",0,,,0
+Diabetes ,Tercera Persona ,"Para el control de la diabetes, en un principio le prescribieron pastillas",1,afrontamiento centrado problema: tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Como poco después quedó embarazada, ha cambiado el tratamiento por la insulina (Humalog)",1,cambio tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,En un primer momento fue reacia a la administración de insulina,1,evitación tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,", sin embargo, tuvo que asumir el nuevo tratamiento",1,aceptación tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,al ser el más indicado para el bienestar del feto.,0,,,0
+Diabetes ,Tercera Persona ,Tanto ella como su marido acuden a las charlas de la asociación de pacientes,1,búsqueda apoyo social centrado problema,Dimensión 6: Social Functioning,1
+Diabetes ,Tercera Persona ,", y consideran que es muy positiva la información que reciben, el poder hablar con otras personas en la misma situación",1,búsqueda expresión emocional,Unclassified,1
+Diabetes ,Tercera Persona ,", y los servicios de orientación psicológica disponibles",1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,Milagros sostiene que la persona con diabetes puede llevar una vida totalmente normal,1,normalización vida cotidiana,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,siempre que tenga en cuenta los cuidados indicados por los médicos en relación a la alimentación y el ejercicio,1,importancia adherencia tratamiento: dieta actividad física,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,", teniendo especial cuidado con los pies y la vista.",0,,,0
+Diabetes ,Tercera Persona ,Juan sentía un poco de sequedad en la boca,1,identificación primeros síntomas,Dimensión 3: Bodily Pain,1
+Diabetes ,Tercera Persona ,", pero no tenía unos síntomas claros que le hicieran sospechar que tenía diabetes.",0,,,0
+Diabetes ,Tercera Persona ,Su madre es diabética desde hace 40 años.,0,,,0
+Diabetes ,Tercera Persona ,"Un día que fue a visitarla la encontró controlándose el azúcar, y se le ocurrió medirse sus niveles.",0,,,0
+Diabetes ,Tercera Persona ,De este modo se descubrió unos valores de 225 gr/dl.,0,,,0
+Diabetes ,Tercera Persona ,Acudió al médico de cabecera quien le realizó un análisis y confirmó el diagnóstico,1,confirmación diagnóstico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,Juan señala que al principio se sintió asustado,1,miedo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Diabetes ,Tercera Persona ,porque ya conocía por su madre las complicaciones que puede acarrear esta enfermedad (tales como amputaciones y problemas en la vista),2,incertidumbre,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,porque ya conocía por su madre las complicaciones que puede acarrear esta enfermedad (tales como amputaciones y problemas en la vista),2,evolución síntomas,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,Le remitieron al endocrino,1,derivación especialista médico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,que le comentó con detenimiento información sobre la enfermedad,1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,", prescribiéndole un tratamiento con pastillas (Prandin 1gr y Dianben 850), y explicándole la importancia del control de la dieta y el ejercicio.",0,,,0
+Diabetes ,Tercera Persona ,A partir de este momento el endocrino le realiza análisis cada seis meses,1,seguimiento enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,Juan aconseja a las personas con diabetes que controlen el régimen de comidas y que practiquen ejercicio en su tiempo libre,1,importancia adherencia tratamiento: dieta ejercicio físico,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,En su caso piensa que no es fácil por su trabajo.,0,,,0
+Diabetes ,Tercera Persona ,Considera muy importante el apoyo familiar,1,satisfacción apoyo emocional familiar,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,A Juan le gustaría que hubiera más apoyo laboral para los pacientes con diabetes que facilite cumplir los cuidados necesarios,1,falta apoyo entorno laboral,Dimensión 7: Role Limitations due to Emotional Problems,1
+Diabetes ,Tercera Persona ,"En agosto del 2000, Mari Carmen acudió al médico a realizarse un análisis rutinario que se realizó por sospecha de infección por hongos.",0,,,0
+Diabetes ,Tercera Persona ,Su primera reacción fue asumir esta situación,1,aceptación,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,ya que esperaba que podría padecerla por su peso y antecedentes de su madre,1,anticipación,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,"Le explicaron que debía modificar sus hábitos de comida, hacer ejercicio y le prescribieron el Diamicron",3,tratamiento médico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Le explicaron que debía modificar sus hábitos de comida, hacer ejercicio y le prescribieron el Diamicron",3,dieta,Unclassified,1
+Diabetes ,Tercera Persona ,"Le explicaron que debía modificar sus hábitos de comida, hacer ejercicio y le prescribieron el Diamicron",3,actividad física,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,"Además le recomendaron los cuidados que debía tener para evitar las posibles complicaciones en la vista, el riñón, el hígado, los pies y el corazón.",0,,,0
+Diabetes ,Tercera Persona ,Afirma que tuvo que mentalizarse sobre los hábitos de vida,1,dificultades adherencia tratamiento hábitos vida,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,que debía cambiar sin obsesionarse con la enfermedad,1,evitación cognitiva,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,"Fue a partir de octubre de 2007, con su primer embarazo, cuando le cambiaron las pastillas por el tratamiento con insulina (Novorapid y Lantus)",1,cambio tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"En un primer momento lo pasó muy mal con la administración de la insulina, sin embargo, rápidamente asumió que con el embarazo no había otro tratamiento posible para el control de la diabetes",1,aceptación tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Además, Mari Carmen tiene la experiencia de haber pinchado a su madre.",0,,,0
+Diabetes ,Tercera Persona ,Señala que ya es algo que se ha normalizado en su vida,1,normalización tratamiento farmacológico,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"Mari Carmen señala la importancia de no ocultar la enfermedad, sino lo contrario, ya que considera fundamental que el entorno de la persona diabética conozca esta situación",2,secretismo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Diabetes ,Tercera Persona ,"Mari Carmen señala la importancia de no ocultar la enfermedad, sino lo contrario, ya que considera fundamental que el entorno de la persona diabética conozca esta situación",2,búsqueda apoyo social emocional,Dimensión 6: Social Functioning,1
+Diabetes ,Tercera Persona ,De este modo se evitan complicaciones mayores ante situaciones agudas de desequilibrio en el nivel de azúcar,1,anticipación,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,Julio fue diagnosticado de diabetes hace aproximadamente 15 años.,0,,,0
+Diabetes ,Tercera Persona ,El diagnóstico se realizó de forma casual cuando el urólogo le estaba estudiando por problemas de cálculos renales.,0,,,0
+Diabetes ,Tercera Persona ,"Una vez diagnosticado se dio cuenta de que había tenido síntomas relacionados con la diabetes como son excesiva sed, sudoración y aumento del número de veces que orinaba",1,identificación síntomas,Dimensión 3: Bodily Pain,1
+Diabetes ,Tercera Persona ,"Los diferentes profesionales a los que ha acudido le han recomendado que modifique su dieta, sin embargo él dice que para algunas personas la comida puede ser como una compulsión y que esta recomendación puede ser muy difícil de cumplir",1,dificultad adherencia tratamiento: dieta,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Debido a su obesidad ha estado bajo régimen nutricional, intentando reducir su sobrepeso",1,afrontamiento centrado problema,Dimensión 5: Vitality,1
+Diabetes ,Tercera Persona ,Ha tenido dificultades para mantener el peso estable con muchas variaciones con subidas y bajadas de peso.,0,,,0
+Diabetes ,Tercera Persona ,Al principio le costó mucho aceptar el tratamiento con la insulina pero era necesario para el control de los niveles de azúcar,1,dificultad adherencia tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Durante los dos últimos años, la insulina ya no era suficiente debido a su sobrepeso (obesidad mórbida) por lo que fue intervenido quirúrgicamente para realizarle una cirugía de reducción de estómago.",0,,,0
+Diabetes ,Tercera Persona ,Desde entonces se controla nuevamente con antidiabéticos orales (Dianben).,0,,,0
+Diabetes ,Tercera Persona ,"Julio sufre de complicaciones de la diabetes sobre todo en el riñón y la vista, así como pérdida de sensibilidad en los pies",1,complicaciones enfermedad: riñón vista,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,Julio afirma que recibe un gran apoyo de su familia,1,apoyo emocional familiar,Dimensión 6: Social Functioning,1
+Diabetes ,Tercera Persona ,", especialmente de su esposa",1,apoyo emocional pareja,Dimensión 7: Role Limitations due to Emotional Problems,1
+Diabetes ,Tercera Persona ,para sobrellevar la diabetes.,0,,,0
+Diabetes ,Tercera Persona ,Cree que sería importante contar con más y mejor información sobre la diabetes,1,importancia sensibilización formación enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,y que debería incluirse en la educación de los niños medidas preventivas para mejorar los hábitos y evitar la aparición de la enfermedad,2,anticipación enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,y que debería incluirse en la educación de los niños medidas preventivas para mejorar los hábitos y evitar la aparición de la enfermedad,2,prevención,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"Tanto su esposa como él recomiendan enseñar a los hijos sobre la enfermedad, cuando alguno de su familia la padece.",0,,,0
+Epilepsia ,Tercera Persona ,"A un hombre al que le encanta el deporte, la epilepsia ha sido meramente un obstáculo a superar y un competidor al que vencer",1,espíritu lucha,Dimensión 5: Vitality,1
+Epilepsia ,Tercera Persona ,"Jérôme ha practicado deporte de manera activa durante toda su vida, poniendo a prueba su valía en competiciones de natación, ciclismo y marcha.",0,,,0
+Epilepsia ,Tercera Persona ,Jérôme experimentó sus dos primeras crisis epilépticas de niño en la escuela y la tercera más grave cuando se dirigía a su clase de natación.,0,,,0
+Epilepsia ,Tercera Persona ,Fue trasladado al hospital y confinado durante seis semanas antes de que se le diagnosticara epilepsia.,0,,,0
+Epilepsia ,Tercera Persona ,Su médico le advirtió que tenía que dejar de participar en actividades deportivas.,0,,,0
+Epilepsia ,Tercera Persona ,"Así lo hizo durante un tiempo, pero sintió la necesidad de competir para demostrar que su epilepsia no lograría derrotarlo",1,espíritu lucha,Dimensión 5: Vitality,1
+Epilepsia ,Tercera Persona ,"Admite haber tenido mucha suerte al salir ileso, dados los riesgos que ha asumido",1,suerte,Dimensión 5: Vitality,1
+Epilepsia ,Tercera Persona ,Con el apoyo de su familia,1,satisfacción apoyo emocional familiar,Dimensión 4: General Health Perceptions,1
+Epilepsia ,Tercera Persona ,y de su neurólogo,1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Epilepsia ,Tercera Persona ,", Jérôme empezó a tomar medicación y sus convulsiones empezaron a ser menos frecuentes y a distanciarse",1,satisfacción tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Epilepsia ,Tercera Persona ,Desde entonces ha completado varios triatlones y no padece crisis epilépticas desde 2003.,0,,,0
+Epilepsia ,Tercera Persona ,Ahora Jérôme tiene carnet de conducir y trabaja como fisioterapeuta.,0,,,0
+Epilepsia ,Tercera Persona ,Sigue llevando un estilo de vida muy atlético.,0,,,0
+Diabetes ,Tercera Persona ,Javier fue diagnosticado de diabetes en 2004.,0,,,0
+Diabetes ,Tercera Persona ,Se detectó a raíz de unas molestias en la zona del riñón y mucha sed,1,detección primeros síntomas: riñon sed,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,"En su opinión, una de las causas de la aparición de la enfermedad puede haber sido el sobrepeso, asociado a hábitos de vida sedentario.",0,,,0
+Diabetes ,Tercera Persona ,"A raíz del diagnóstico, ha cambiado sus hábitos de vida",1,cambio hábitos vida,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,Lleva una alimentación más sana,1,cambio dieta,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,y hace ejercicio físico casi a diario,1,cambio hábitos vida: actividad física,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,"Por otro lado, ha cambiado sus relaciones sociales, porque las salidas con sus amigos y familia a los bares son menos habituales",1,cambio hábitos vida saludables,Unclassified,1
+Diabetes ,Tercera Persona ,"Actualmente, su principal complicación es la retinopatía diabética de tipo proliferativa.",0,,,0
+Diabetes ,Tercera Persona ,Esta situación le ha obligado a pedir repetidas bajas laborales,1,impacto vida laboral,Dimensión 2: Role Limitations due to Physical Problems,1
+Diabetes ,Tercera Persona ,; actualmente está en vías de obtener una incapacidad,1,impacto vida laboral,Dimensión 2: Role Limitations due to Physical Problems,1
+Diabetes ,Tercera Persona ,"Cuenta con el apoyo de la ONCE donde le han ofrecido una serie de recursos para facilitar su vida cotidiana (lectura, comunicación, etc)",2,búsqueda apoyo social instrumental,Dimensión 6: Social Functioning,1
+Diabetes ,Tercera Persona ,"Cuenta con el apoyo de la ONCE donde le han ofrecido una serie de recursos para facilitar su vida cotidiana (lectura, comunicación, etc)",2,afrontamiento centrado problema,Dimensión 5: Vitality,1
+Diabetes ,Tercera Persona ,Debido a la disminución en su visión suele salir a andar acompañado con su perro,1,afrontamiento centrado problema,Dimensión 5: Vitality,1
+Diabetes ,Tercera Persona ,Isabel se sentía algo decaída físicamente,2,fatiga,Dimensión 2: Role Limitations due to Physical Problems,1
+Diabetes ,Tercera Persona ,Isabel se sentía algo decaída físicamente,2,falta energía,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,y pensaba que era porque comía poco.,0,,,0
+Diabetes ,Tercera Persona ,Fue al centro de salud donde le realizaron un análisis y le diagnosticaron la diabetes,1,confirmación diagnóstico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,Afirma que no le sorprendió dicho diagnóstico ya que su madre también había sido diabética,1,anticipación,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,En un primer momento controlaba los niveles de azúcar únicamente con la dieta,1,adherencia tratamiento: dieta,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Poco tiempo después, le realizaron un nuevo análisis y se decidió que debía comenzar con pastillas",1,adherencia tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,Durante éstos años han ido aumentando la dosis del tratamiento,1,aumento tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Además de la diabetes, padece otros problemas",1,comorbilidad,Dimensión 3: Bodily Pain,1
+Diabetes ,Tercera Persona ,"por lo que tiene que tomar once pastillas al día, pero dice que lo lleva bien.",0,,,0
+Diabetes ,Tercera Persona ,Lo único que temía Isabel después del diagnóstico era tener que pincharse la insulina,1,miedo tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,", ya que recuerda que le impresionaba ver a su madre administrándosela.",0,,,0
+Diabetes ,Tercera Persona ,"Por ello, sigue de una forma muy estricta todas las recomendaciones del médico en cuanto al tratamiento y los hábitos de vida",2,adherencia tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Por ello, sigue de una forma muy estricta todas las recomendaciones del médico en cuanto al tratamiento y los hábitos de vida",2,adherencia hábitos vida saludables,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,Isabel piensa que los cambios en el estado de ánimo influyen en los niveles de glucosa en sangre.,0,,,0
+Diabetes ,Tercera Persona ,"Por ejemplo, cuando se hace un control y obtiene un nivel alto de azúcar se suele preocupar y cree que esto le sube el azúcar aún más.",0,,,0
+Diabetes ,Tercera Persona ,"Por este motivo, prefiere llevar mucho control sobre la dieta",1,adherencia dieta,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,y realizarse los controles solo de vez en cuando para no estar tan pendiente e intranquila,3,afrontamiento centrado problema,Dimensión 5: Vitality,1
+Diabetes ,Tercera Persona ,y realizarse los controles solo de vez en cuando para no estar tan pendiente e intranquila,3,búsqueda soluciones,Dimensión 5: Vitality,1
+Diabetes ,Tercera Persona ,y realizarse los controles solo de vez en cuando para no estar tan pendiente e intranquila,3,planificación,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"Además, practica ejercicio físico 3 veces por semana: acude a la piscina, hace bicicleta y ejercicio en la cinta",1,adherencia actividad física,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,"Isabel recomienda a las personas en su misma situación que sigan las indicaciones de su médico en relación al tratamiento, practiquen ejercicio, controlen la alimentación",3,importancia adherencia tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,"Isabel recomienda a las personas en su misma situación que sigan las indicaciones de su médico en relación al tratamiento, practiquen ejercicio, controlen la alimentación",3,actividad física,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,"Isabel recomienda a las personas en su misma situación que sigan las indicaciones de su médico en relación al tratamiento, practiquen ejercicio, controlen la alimentación",3,dieta,Unclassified,1
+Diabetes ,Tercera Persona ,y que tengan una actitud positiva,1,optimismo,Dimensión 5: Vitality,1
+Diabetes ,Tercera Persona ,ante la enfermedad para poder sobrellevarla de la mejor manera posible,1,optimismo,Dimensión 5: Vitality,1
+Diabetes ,Tercera Persona ,", porque si piensas que te encuentras mal te vas a encontrar aún peor.",0,,,0
+Diabetes ,Tercera Persona ,Eligi se realizaba controles anuales por la hipertensión que padecía.,0,,,0
+Diabetes ,Tercera Persona ,En uno de los controles analíticos se observó que sus niveles de azúcar estaban aumentando y fue a raíz de los últimos resultados cuando le diagnostican la diabetes,1,confirmación diagnóstico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,En cuanto a síntomas solamente recuerda sentir un poco más de sed de lo habitual,1,identificación primeros síntomas: sed,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,"En un primer momento le indicaron que debía controlar la dieta, y así se mantuvo durante cuatro años.",0,,,0
+Diabetes ,Tercera Persona ,Él considera que debido al estrés y ansiedad,2,estrés,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,Él considera que debido al estrés y ansiedad,2,ansiedad,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,de su trabajo,1,problemas entorno laboral,Dimensión 7: Role Limitations due to Emotional Problems,1
+Diabetes ,Tercera Persona ,no se pudo controlar del todo sus niveles de glucosa y tuvo que comenzar con antidiabéticos orales,1,inicio tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,A partir de este momento comienza a cambiar realmente sus hábitos,1,adherencia hábitos vida saludables,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,", ya que reconoce que, aunque había comenzado a controlar su dieta, tampoco había sido muy riguroso",1,dificultad adherencia dieta,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,Empezó a tener conciencia de su enfermedad,1,conciencia enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"cuando el médico le dijo que era diabético y tenía que combinar la dieta, el ejercicio físico y las pastillas.",0,,,0
+Diabetes ,Tercera Persona ,Eligi reconoce que no tenía muchos conocimientos sobre esta enfermedad,1,desconocimiento enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,", sabía que muchas personas la padecen y que el tratamiento consiste en la administración de insulina debido a que el cuerpo no regulaba correctamente el azúcar.",0,,,0
+Diabetes ,Tercera Persona ,"Entonces buscó información en Internet, libros y a través de otras personas conocidas",1,afrontamiento centrado problema: búsqueda información,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,", lo que le permitió tomar conciencia de lo que tenía",1,conciencia enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"Respecto a la forma de afrontar la enfermedad, un hecho que considera negativo es que la enfermedad evoluciona sin dar señales",1,incertidumbre,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,y por ello a veces se disminuyen los cuidados,1,reducción adherencia tratamiento,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,Afirma que ahora su dieta es mucho más rigurosa,1,adherencia dieta,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,y su esposa lo acompaña en el cumplimiento de la alimentación más saludable adecuada a su situación,2,apoyo emocional pareja,Dimensión 7: Role Limitations due to Emotional Problems,1
+Diabetes ,Tercera Persona ,y su esposa lo acompaña en el cumplimiento de la alimentación más saludable adecuada a su situación,2,apoyo social adherencia tratamiento,Dimensión 7: Role Limitations due to Emotional Problems,1
+Diabetes ,Tercera Persona ,"También ha logrado disminuir su consumo de alcohol, realiza ejercicio a diario y sus niveles de glucosa están mucho más controlados.",0,,,0
+Diabetes ,Tercera Persona ,Recomienda a otras personas en su misma situación que también sigan estos hábitos con normalidad y que acepten,1,aceptación enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,su situación sin obsesionarse con ella,1,evitación cognitiva,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,"A Antonia le diagnosticaron la diabetes hace 8 años, fue al médico porque sentía mucho sueño y sed",1,identificación primeros síntomas: sueño sed,Dimensión 2: Role Limitations due to Physical Problems,1
+Diabetes ,Tercera Persona ,Después de realizarle un análisis de sangre le informaron que tenía diabetes,1,confirmación diagnóstica,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,El médico de cabecera le explicó sobre los controles en la dieta y el ejercicio que debía realizar.,0,,,0
+Diabetes ,Tercera Persona ,Posteriormente la remitió a la enfermera,1,derivación especialista,Dimensión 9: Healthcare Interaction,1
+Diabetes ,Tercera Persona ,", que es la que lleva todos sus controles (azúcar, tensión arterial, …).",0,,,0
+Diabetes ,Tercera Persona ,Antonia sabía sobre la diabetes porque su madre también había sido diabética,2,anticipación,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,Antonia sabía sobre la diabetes porque su madre también había sido diabética,2,componente genético enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,y ella era la encargada de administrarle la insulina.,0,,,0
+Diabetes ,Tercera Persona ,"Antonia toma antidiabéticos orales, sin embargo, en una ocasión los niveles de azúcar estaban muy altos y no se controlaba del todo, por lo que estuvieron a punto de comenzar con la insulina.",0,,,0
+Diabetes ,Tercera Persona ,Desde ese momento se vigila con más frecuencia los niveles de azúcar y hemoglobina glicosilada,1,control enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,", que parece que han mejorado y de momento continúa con pastillas.",0,,,0
+Diabetes ,Tercera Persona ,Ella se mide los niveles de azúcar en sangre tres veces a la semana,1,control enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"Estos controles los realiza en diferentes momentos del día: en ayunas, antes o después de las comidas y los lleva apuntados cada vez que va a revisión médica.",0,,,0
+Diabetes ,Tercera Persona ,"Acude al médico y a la enfermera una vez al mes aproximadamente, aunque depende de cómo vayan los controles.",0,,,0
+Diabetes ,Tercera Persona ,Cada 3 meses se realiza un análisis de sangre.,0,,,0
+Diabetes ,Tercera Persona ,"Intenta hacer ejercicio físico, aunque se encuentra un poco limitada para andar debido a que está operada de la rodilla y suele dolerle al caminar.",0,,,0
+Diabetes ,Tercera Persona ,Acude a una podóloga para prevenir y cuidar sus pies,1,control enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"Antonia afirma que los “disgustos” pueden alterar los niveles de azúcar, por lo que recomienda a las personas con diabetes que no se preocupen en exceso por la enfermedad",1,evitación cognitiva,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,"porque lo sufren muchas personas y hay que llevarlo lo mejor posible, “con dignidad”",1,normalización,Dimensión 8: Mental Health,1
+Diabetes ,Tercera Persona ,Además debe respetar la dieta y hacer ejercicio físico a diario,1,adherencia dieta actividad física,Dimensión 1: Physical Functioning,1
+Diabetes ,Tercera Persona ,Considera que es importante recibir más información desde los centros asistenciales sobre los cuidados y posibles secuelas de la enfermedad para aprender a vigilarse mejor,1,necesidad formación enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,A los 39 años a Pedro le diagnosticaron una angina de pecho y poco después le informaron que debía operarse del corazón.,0,,,0
+Diabetes ,Tercera Persona ,En el análisis del preoperatorio es donde le descubrieron la diabetes.,0,,,0
+Diabetes ,Tercera Persona ,"Afirma que después del diagnóstico le explicaron con detalle todos los cuidados que debía realizar: el tratamiento con pastillas, la dieta y la práctica de ejercicio.",0,,,0
+Diabetes ,Tercera Persona ,Pedro pasó unos años muy difíciles con muchos problemas personales y laborales que lo llevaron a tener una actitud pasiva ante la enfermedad,1,evitación afrontamiento,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,Reconoce ser el único responsable de su situación,1,aceptación responsabilidad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"y no tiene ninguna queja sobre la atención de los servicios sanitarios, ya que le siguen insistiendo respecto a las complicaciones que pueden seguir produciéndose si sigue sin cambiar sus hábitos de vida.",0,,,0
+Diabetes ,Tercera Persona ,"Pedro estuvo siendo tratado con pastillas los tres primeros años de la enfermedad, sin embargo, debido a que no se cuidaba adecuadamente, sus niveles de azúcar en sangre no se estabilizaban, y tuvo que empezar a administrarse insulina.",0,,,0
+Diabetes ,Tercera Persona ,"Actualmente, Pedro tiene muchos problemas en las piernas, por lo que ha sufrido amputaciones en los dedos",1,complicaciones enfermedad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,Pedro hace autocrítica sobre su actitud ante la enfermedad,1,aceptación responsabilidad,Dimensión 4: General Health Perceptions,1
+Diabetes ,Tercera Persona ,"Reconoce que no es la forma más apropiada de abordarla, recomendando a las personas diabéticas que cumplan los consejos del personal sanitario, con el fin de evitar las complicaciones de salud que él padece actualmente.",0,,,0
+Diabetes ,Tercera Persona ,"De cara al futuro, Pedro tiene la intención de acudir a alguna asociación de diabéticos, donde le puedan asesorar",1,búsqueda apoyo social instrumental,Dimensión 6: Social Functioning,1
+Diabetes ,Tercera Persona ,"y sobre todo, en la que pueda conocer a personas en su misma situación que le puedan servir de apoyo",1,búsqueda apoyo social emocional,Dimensión 6: Social Functioning,1
+Epilepsia ,Tercera Persona ,"En 1986, Lloyd tuvo un accidente de tráfico con su coche, al chocar contra una rotonda.",0,,,0
+Epilepsia ,Tercera Persona ,"Aunque pudo salvar la vida, sufrió una leve lesión en la cabeza.",0,,,0
+Epilepsia ,Tercera Persona ,"Al principio parecía haberse recuperado por completo, pero al cabo de un mes, su esposa observó que parecía estar cada vez más distante durante sus conversaciones",1,impacto cognitivo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Epilepsia ,Tercera Persona ,"Insistió en que buscara atención médica, pero Lloyd se negó",1,negación,Dimensión 4: General Health Perceptions,1
+Epilepsia ,Tercera Persona ,a reconocer el problema hasta que tuvo que ser ingresado de urgencia en el hospital después de padecer sus primeras convulsiones graves.,0,,,0
+Epilepsia ,Tercera Persona ,A Lloyd posteriormente se le diagnosticó epilepsia,1,confirmación diagnóstico,Dimensión 9: Healthcare Interaction,1
+Epilepsia ,Tercera Persona ,"Sus complejas convulsiones parciales y secundarias generalizadas en ocasiones le causaron una conducta atípica, pero gracias al apoyo que recibió de su esposa",1,apoyo emocional pareja,Dimensión 7: Role Limitations due to Emotional Problems,1
+Epilepsia ,Tercera Persona ,", ha optado por abordar de forma activa su enfermedad",1,afrontamiento centrado problema,Dimensión 5: Vitality,1
+Epilepsia ,Tercera Persona ,"A lo largo de toda su vida, se ha enfrentado a conceptos erróneos sobre la epilepsia con familiares y amigos, pero también ha encontrado nuevos aliados tanto en el trabajo como en casa",2,búsqueda apoyo familiar emocional,Dimensión 6: Social Functioning,1
+Epilepsia ,Tercera Persona ,"A lo largo de toda su vida, se ha enfrentado a conceptos erróneos sobre la epilepsia con familiares y amigos, pero también ha encontrado nuevos aliados tanto en el trabajo como en casa",2,apoyo entorno laboral,Dimensión 7: Role Limitations due to Emotional Problems,1
+Epilepsia ,Tercera Persona ,La resistencia de Lloyd a través de los tratamientos,1,espíritu lucha,Dimensión 5: Vitality,1
+Epilepsia ,Tercera Persona ,", los grupos de apoyo",1,búsqueda apoyo social emocional,Dimensión 6: Social Functioning,1
+Epilepsia ,Tercera Persona ,y la educación en el lugar de trabajo le han hecho sentir orgulloso de trabajar en pos de lograr una mejor comprensión sobre la epilepsia de cara a la sociedad,2,desarrollo personal,Dimensión 5: Vitality,1
+Epilepsia ,Tercera Persona ,y la educación en el lugar de trabajo le han hecho sentir orgulloso de trabajar en pos de lograr una mejor comprensión sobre la epilepsia de cara a la sociedad,2,orgullo,Dimensión 5: Vitality,1
+Epilepsia ,Tercera Persona ,Lloyd ha luchado duro para disipar los mitos que se han creado alrededor de la epilepsia,2,estigamatización,Dimensión 7: Role Limitations due to Emotional Problems,1
+Epilepsia ,Tercera Persona ,Lloyd ha luchado duro para disipar los mitos que se han creado alrededor de la epilepsia,2,necesidad educar concienciar acerca enfermedad,Dimensión 4: General Health Perceptions,1
+Epilepsia ,Tercera Persona ,Ahora anima a aquellos que viven con epilepsia a obtener asesoramiento médico de facultativos,1,búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Epilepsia ,Tercera Persona ,y a iniciar planes de tratamiento ya en una fase preliminar,1,anticipación,Dimensión 8: Mental Health,1
+Parkinson ,Primera Persona ,"Nadie me había dicho que la enfermedad de Parkinson me provocaría vértigo, haría menguar mi voz, me causaría dificultades para escribir y me arrebataría el sentido del olfato.",0,,,0
+Parkinson ,Primera Persona ,Nadie me había dicho que se podía contraer Parkinson siendo aún joven – yo tenía 42 años.,0,,,0
+Parkinson ,Primera Persona ,Nadie me había dicho que el parkinsonismo me haría llorar al ver caer mi sombrero o cómo afectaría a mi familia.,0,,,0
+Parkinson ,Primera Persona ,"Nadie me había dicho la falta de tacto que podían mostrar las personas, pero también lo amables y comprensivas que podían llegar a ser.",0,,,0
+Parkinson ,Primera Persona ,Nadie me había dicho lo rica y apasionante que puede llegar a ser la vida después de que te diagnostiquen la enfermedad de Parkinson.,0,,,0
+Parkinson ,Primera Persona ,"Atando cabos 
+Me diagnosticaron la enfermedad de Parkinson en 1996 y, como fisioterapeuta cualificada, tenía conocimientos por mi trabajo de la enfermedad, o al menos eso creía.",0,,,0
+Parkinson ,Primera Persona ,"Sin embargo, nunca relacioné mi codo de tenista con la enfermedad de Parkinson, que resulta ser un síntoma precoz",1,dificultad identificación primeros síntomas,Unclassified,1
+Parkinson ,Primera Persona ,Achacaba el dolor de mi brazo derecho con el que convivía durante más de un año a esclerosis múltiple o a un tumor cerebral.,0,,,0
+Parkinson ,Primera Persona ,"Di las gracias por no tratarse de ninguna de estas dos enfermedades, pero aun así me sentí devastada cuando me dijeron que tenía Parkinson",1,impacto emocional diagnóstico,Dimensión 7: Role Limitations due to Emotional Problems,1
+Parkinson ,Primera Persona ,Me hizo falta otro año para reunir el valor suficiente y decírselo a mis padres,2,expresión emocional,Dimensión 7: Role Limitations due to Emotional Problems,1
+Parkinson ,Primera Persona ,Me hizo falta otro año para reunir el valor suficiente y decírselo a mis padres,2,secretismo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Parkinson ,Primera Persona ,"y, cuando lo hice, no pude parar de llorar",1,llanto,Dimensión 8: Mental Health,1
+Parkinson ,Primera Persona ,Hablar de mi diagnóstico en ocasiones todavía sigue resultándome duro.,0,,,0
+Parkinson ,Primera Persona ,He probado varias medicaciones y las tolero bien.,0,,,0
+Parkinson ,Primera Persona ,Pero dado que recientemente empecé a experimentar una mayor frecuencia de bloqueos motores,1,incremento sintomatología,Dimensión 4: General Health Perceptions,1
+Parkinson ,Primera Persona ,", decidí hablar con mi neurólogo",1,búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Parkinson ,Primera Persona ,Es importante tener una buena relación porque esta será de larga duración y no hay soluciones rápidas.,0,,,0
+Parkinson ,Primera Persona ,"Me alegra saber que pase lo que pase, puedo hablar con mi médico y su equipo sobre mis necesidades",1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Parkinson ,Primera Persona ,"Apoyo esencial 
+Mi familia sufrió un verdadero shock al conocer mi diagnóstico y fue un período difícil para todos.",0,,,0
+Parkinson ,Primera Persona ,"Con el tiempo, todos se han acostumbrado a mi lentitud y a mis temblores.",0,,,0
+Parkinson ,Primera Persona ,"Hoy en día, mi familia es mi mayor apoyo",1,satisfacción apoyo familiar emocional,Dimensión 6: Social Functioning,1
+Parkinson ,Primera Persona ,"Durante los primeros ocho años, no buscaba la compañía de otras personas que también padecieran la enfermedad de Parkinson",1,comparación social,Dimensión 6: Social Functioning,1
+Parkinson ,Primera Persona ,porque era como una mirada a mi futuro,2,anticipación,Dimensión 8: Mental Health,1
+Parkinson ,Primera Persona ,porque era como una mirada a mi futuro,2,futuro incierto,Dimensión 8: Mental Health,1
+Parkinson ,Primera Persona ,—un futuro al que no quería enfrentarme,1,evitación cognitiva,Dimensión 8: Mental Health,1
+Parkinson ,Primera Persona ,"Pero desde que dejé de trabajar, me he sometido a montones de sesiones de sensibilización y me resulta más fácil hablar de la enfermedad de Parkinson",1,expresión emocional,Dimensión 7: Role Limitations due to Emotional Problems,1
+Parkinson ,Primera Persona ,"Ahora, disfruto con las bromas y la camaradería del club de Parkinson",1,satisfacción apoyo social emocional,Dimensión 4: General Health Perceptions,1
+Parkinson ,Primera Persona ,"A veces, las personas se pasan con su amabilidad.",0,,,0
+Parkinson ,Primera Persona ,"Suena despectivo, pero realmente no necesito que me traten como si fuera un inválido",1,estigmatización,Dimensión 7: Role Limitations due to Emotional Problems,1
+Parkinson ,Primera Persona ,Puedo sostener una taza de café y soy capaz de subir las escaleras y de caminar un largo trecho.,0,,,0
+Parkinson ,Primera Persona ,Pero solo tengo dos velocidades: lenta y parada,1,aceptación sintomatología,Dimensión 4: General Health Perceptions,1
+Parkinson ,Primera Persona ,No me divierto viendo como la rigidez se va apoderando de mis músculos y articulaciones con el paso de los años,1,evolución sintomatología,Dimensión 3: Bodily Pain,1
+Parkinson ,Primera Persona ,", lo que me obliga a aumentar mis sesiones de fisioterapia",1,búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Parkinson ,Primera Persona ,Mis mareos y mi vértigo hacen que tenga dificultades para ducharme y vestirme,2,dificultad movilidad,Dimensión 2: Role Limitations due to Physical Problems,1
+Parkinson ,Primera Persona ,Mis mareos y mi vértigo hacen que tenga dificultades para ducharme y vestirme,2,dificultades actividades vida diaria,Dimensión 2: Role Limitations due to Physical Problems,1
+Parkinson ,Primera Persona ,"Al principio, mi nariz me jugaba malas pasadas: me enviaba malos olores, como a goma quemada a todas horas, tanto de día como de noche, o de desagües atascados que en realidad no lo estaban.",0,,,0
+Parkinson ,Primera Persona ,"Ahora, ya no huelo nada.",0,,,0
+Parkinson ,Primera Persona ,"Y el mundo sigue girando 
+Aquel terrible día en el que te dan el diagnóstico parece que el mundo haya acabado para ti",1,impacto emocional diagnóstico,Dimensión 7: Role Limitations due to Emotional Problems,1
+Parkinson ,Primera Persona ,Todavía puedo sentir aquella sensación en la boca del estómago.,0,,,0
+Parkinson ,Primera Persona ,"Pero desde entonces, he caminado por la Gran Muralla China y he estado en Noruega, España y Australia.",0,,,0
+Parkinson ,Primera Persona ,"Me he licenciado en la universidad, he aprendido cómo usar una plancha en mi encantadora y flamante cocina y me he comprado una caravana en Gales.",0,,,0
+Parkinson ,Primera Persona ,Así que el mundo sigue girando a pesar del diagnóstico,1,espíritu lucha,Dimensión 5: Vitality,1
+Parkinson ,Primera Persona ,"Vivir con una enfermedad de larga duración es un viaje lleno de altibajos, pero también está repleto de largos tramos de autopista.",0,,,0
+Parkinson ,Primera Persona ,"Me encanta cocinar, me encanta comer y me encantan las fiestas.",0,,,0
+Parkinson ,Primera Persona ,No vivo para mi enfermedad de Parkinson sino que vivo con ella,2,adaptación,Dimensión 7: Role Limitations due to Emotional Problems,1
+Parkinson ,Primera Persona ,No vivo para mi enfermedad de Parkinson sino que vivo con ella,2,normalización,Dimensión 8: Mental Health,1
+Parkinson ,Primera Persona ,Nadie me había dicho lo rica y apasionante que puede llegar a ser la vida después de que te diagnostiquen la enfermedad de Parkinson,2,optimismo,Dimensión 5: Vitality,1
+Parkinson ,Primera Persona ,Nadie me había dicho lo rica y apasionante que puede llegar a ser la vida después de que te diagnostiquen la enfermedad de Parkinson,2,evaluación positiva,Dimensión 4: General Health Perceptions,1
+Parkinson ,Primera Persona ,tengo 71 años y soy enferma de parkinson desde hace 17 aproximadamente pero cuando me lo dijeron pues aunque yo lo esperaba pero tuve mucha rabia mucha rabia,1,rabia,Dimensión 8: Mental Health,1
+Parkinson ,Primera Persona ,como que me enfadé,1,enfado,Dimensión 8: Mental Health,1
+Parkinson ,Primera Persona ,con todo el mundo digamos un año esto estuve así y al cabo del año ya fue cuando reaccione y empecé a buscar pues artículos cosas documentación que me hicieran ver lo que era el parkinson,1,afrontamiento centrado problema: búsqueda información,Dimensión 4: General Health Perceptions,1
+Parkinson ,Primera Persona ,de una manera positiva,2,evaluación positiva,Dimensión 4: General Health Perceptions,1
+Parkinson ,Primera Persona ,de una manera positiva,2,optimismo,Dimensión 5: Vitality,1
+Parkinson ,Primera Persona ,en la cual tenía tenía que afrontar ley y empecé a verlo ya así como algo que tengo que ponerme a hacerlo no tengo más remedio,1,aceptación,Dimensión 4: General Health Perceptions,1
+Parkinson ,Primera Persona ,me muevo como puedo,1,limitaciones movilidad,Dimensión 2: Role Limitations due to Physical Problems,1
+Parkinson ,Primera Persona ,pero sobre todo con un scooter por una moto,1,búsqueda soluciones,Dimensión 5: Vitality,1
+Parkinson ,Primera Persona ,el cocinar también ayuda a mantenerme porque a ver lo que el parkinson necesita es movilidad hago gimnasia hago fisioterapia logopedia,1,afrontamiento centrado problema,Dimensión 5: Vitality,1
+Parkinson ,Primera Persona ,pues todo lo que te coloque en la asociación,1,búsqueda apoyo social: asociación,Dimensión 6: Social Functioning,1
+Parkinson ,Primera Persona ,se ofrece pues es yo estoy yendo y me aprovecho de lo que en su momento yo fundé para que la gente es aprovechar que es esa la asociación de parkinson de alcobendas y san Sebastián de los reyes y estamos hoy día que la asociación va marchando palante y estamos bien considerados en en todos los ámbitos del parkinson al principio como os he contado no teníamos recursos,1,limitaciones económicas,Dimensión 7: Role Limitations due to Emotional Problems,1
+Parkinson ,Primera Persona ,todos lo hacíamos nosotros y poco a poco se fue aumentando,1,espíritu lucha,Dimensión 5: Vitality,1
+Parkinson ,Primera Persona ,claro la gente iba yendo y lo malo más importante que conseguido que se pusiera gente profesional tenemos una plantilla,1,búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Parkinson ,Primera Persona ,sea todo eso el roque ya cuando empezó lo deje monta es el mayor logro el parkinson no lo olvido con nada les digo siempre hay en el parkinson siempre he dicho que es un amante ido portero de restringido pues cuando el local esté ahí se instala haciendo ganchillo cuando estoy cantando karaoke el parkinson te deja digamos las cuerdas vocales flojita entonces el karaoke te ayuda a que es cantando las cuerdas vocales se despegan puede tomar más alce la voz muchísimo mejor entonces pues sea algo que puedas hacer en ese momento es es el mejor momento y poder dar más información digamos a la gente a los ciudadanos que el parkinson se supiera cómo se puede pelear contra él,1,espíritu lucha,Dimensión 5: Vitality,1
+Parkinson ,Primera Persona ,"y se puede encontrar uno mejor  no se informa bien lo suficiente no sabemos no sabemos la magia de lo que nos atañe lo demás lo olvidamos no me 
+gustaría que la gente pudiera pudiera hacerlo que asuma que tiene parkinson saber lo que tengo ahí y que tengo que llevarlo pues lo mejor posible y pelear contra él lo más que pueda cuando sepan que tengan parkinson que vayan a una asociación y son en los sitios que hoy día mejor les pueden ayudar y más les pueden informar las asociaciones son las que tienen más conocimiento de lo que es el parkinson",0,,,0
+Parkinson ,Primera Persona ,mi nombre es laura arse y quiero comentarles mi experiencia con la cámara hiperbárica hace 11 años tengo el diagnóstico de parkinson y hace 4 que empecé con cámara hiperbárica aparte de parkinson teniendo a tres accidentes sistémicos lagunares y como proceso propio de los años tengo algunas otras líneas como artrosis osteoporosis y esas cosas y rescató de la cámara hiperbárica que me cambió totalmente la vida,1,satisfacción tratamiento,Dimensión 9: Healthcare Interaction,1
+Parkinson ,Primera Persona ,y la calidad de vida,1,satisfacción calidad vida,Dimensión 4: General Health Perceptions,1
+Parkinson ,Primera Persona ,en el sentido de que tengo el sistema cognitivo mi memoria y mi mente muy lúcido muy despierta puedo mantener diálogos concretos leer pintar y eso se lo debo a la cámara y práctica y es lo que quiero transmitirle a la gente muy agradecida,1,agradecimiento,Dimensión 8: Mental Health,1
+Parkinson ,Primera Persona ,por eso sobre todo el centro biomédica donde más allá de la atención a la cámara humanamente para mí tiene un precio altísimo el afecto de las personas y la contención que recibió siempre,0,,,0
+Parkinson ,Primera Persona ,la historia comienza en veracruz puerto yo soy y en mi tierra veracruzana tener una vida normal digamos como cualquier otro pero comencé a temblar un poco del brazo izquierdo,1,identificación primeros síntomas,Dimensión 3: Bodily Pain,1
+Parkinson ,Primera Persona ,obviamente fui a ver un doctor normal general y me dijo sabes que tienes que hacer ejercicio yo corrí en veracruz un poco y en la playa como manera de ejercicio normal y qué bueno que voy a hacer voy a hacer voy a hacer otro ejercicio que sea parte del carbono y comenzó a nadar y para irme a nadar y luego en bici comencé a temblar más y le siento xavi pero en el lugar cada vez cada urgencia en lugar de ser tener menos temblores tengo más temblores,1,empeoramiento sintomatología,Dimensión 1: Physical Functioning,1
+Parkinson ,Primera Persona ,y entonces un día me si sabes que lo que tú tienes es ver a un especialista y me dijo sabes que tienes parkinson,1,confirmación diagnóstico,Dimensión 9: Healthcare Interaction,1
+Parkinson ,Primera Persona ,la parte buena entonces que te puedo controlar ese enfermedad tenía 42 años la enfermedad muy complicada y básicamente es una enfermedad que te impide hacer tu vida normal es decir te impide hacer movimientos,2,limitaciones actividades vida diaria,Dimensión 2: Role Limitations due to Physical Problems,1
+Parkinson ,Primera Persona ,la parte buena entonces que te puedo controlar ese enfermedad tenía 42 años la enfermedad muy complicada y básicamente es una enfermedad que te impide hacer tu vida normal es decir te impide hacer movimientos,2,limitaciones físicas,Dimensión 2: Role Limitations due to Physical Problems,1
+Parkinson ,Primera Persona ,que aparentemente pueden ser normales para cualquier persona pero a ti comienza a volverte más difícil y no pagar en algún en un súper comenzó constante trabajo no comer con esa pasta el trabajo comienza a dejar por ejemplo en mí en mi caso de manejar porque te dan miedo no de salir porque te dan miedo de convivir con tus hijos porque piensas que te van a ver de la sed porque te va a verlo y dejar de hacer porque no puedes explicar tu mundo que pasan siempre dudas de que si está bien que sí si necesitas otro diagnóstico más varias etapas en una enfermedad por ejemplo lo niegas,1,negación,Dimensión 4: General Health Perceptions,1
+Parkinson ,Primera Persona ,te enojas,1,enfado,Dimensión 8: Mental Health,1
+Parkinson ,Primera Persona ,no después hay días buenos y días malos y comenzó obviamente a manejar la enfermedad como una situación de alejarte no de alejarte de tu ambiente familiar amigos de cuestiones de este personal es que tú vives día a día no es decir cambia tu vida en lugar de hacer más haces menos,1,evolución enfermedad,Dimensión 4: General Health Perceptions,1
+Parkinson ,Primera Persona ,"llegó un momento en el que por ejemplo está más avanzando y sabía que iba avanzar más allá y por ejemplo me dijo mi esposa que tenemos que intentar dólar un día un artículo vi que había una operación para parkinson entonces yo 
+decidí con mi esposa mi esposa decirme venir a la ciudad de méxico para buscar esa opción llega así te valoran te valoran y te hacen una afirmación de cómo estás finalmente la prueba más importante es cuando me dicen sabes que enriqueciera es candidato no y obviamente tú dices bueno antes de operarme quisiera ver a otras personas como yo que llegaba un grado y las veces también que por ejemplo dices bueno yo quiero estar como bueno la confianza en el médico y en la institución que se la abc en la base para mí para poder temporal pues a veces no tenemos una estigma de que me conoce algún país 
+porque por fin de cuentas como tú piensas que iba a ser mejor cuando encuentras aquí en méxico y con los médicos la confianza fuerte hacer una operación de este tipo que abre tus esperanzas y hables camino a todo lo que puedas imaginar es tanta tu emoción que a final de cuentas tú no lo crees cuando hablas con tu médico y te da la confianza y cuando te dicen en los quirófanos te dicen de la institución te habla te hablan de de todo lo que te pueden ofrecer pues para mí la clave para poderte confiar si tienes el apoyo de tu familia",1,satisfacción apoyo familiar,Dimensión 6: Social Functioning,1
+Parkinson ,Primera Persona ,si tienes el apoyo de las personas correctas tú lo logras porque a final de cuentas yo llegué a este a este hospital a esta situación porque la búsqueda por ejemplo ahora me puede acercar con la gente que está con diego mírame porque me dejó de ser un ejemplo de vida es un ejemplo de tus cambios no sólo porque te hayan operado sino porque también llevas una buena vida es una nueva actitud ante la vida ahora es ayudar a la gente que puedan ver que hay una oportunidad de nuestra enfermedad para llevar una vida mejor que a lo mejor no es la cura personal de cuentas o llevar una vida lo más posible a la normalidad,0,,,0
+Cáncer ,Primera Persona ,ver cómo fue que descubriste que tenía cáncer después yo lo primero que quiero decir es que quiero dar las gracias por la invitación y lo importante que tiene esto que estamos haciendo para los pacientes que están pasando desgraciadamente por esta enfermedad como lo descubrí con un dolor intenso tiene un dolor de espalda muy intenso,1,dolor,Dimensión 3: Bodily Pain,1
+Cáncer ,Primera Persona ,y me di como cuando un ortopédico me trataron como un nervio pinchado y terminamos esté haciendo una resonancia magnética y después una m cat scan y así como no se descubrió esto quiero decir también que me habían hecho rayos equis y el tumor no salía porque estaba escondido detrás de una costilla,1,dificultad diagnótsico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,que era la número 3 básicamente fue un dolor intenso porque yo practicaba siempre una una medicina preventiva cada seis meses me hacía chequeos generales y uno el juego se descubrió tuve una y un diagnóstico equivocado yo,1,diagnóstico erróneo,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona , bueno yo lo descubrí fue una gran fortuna,1,suerte,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,que tuve como lo descubrí porque tenía un catarro normal y el catarro se me pasó pero todavía no me sentía bien y entonces tenía una cita con mi médico que yo que cada seis meses de negro que creo que era como en dos semanas de esa fecha y lo llamé para decirle oye no me siento bien si puedo pasar por allá para que me cheques entonces fue y me quedó completamente y no encontró nada pero como yo nunca fumé cigarrillos nada no recuerdo cuánto cuánto hacía que me hacía una radiografía del pecho y entonces se dijo déjame mandarte al pulmón o lo que en el mismo edificio el doctor Álvarez para asegurar un alumno todo alguna radiografía del pecho por calmar tienes una pulmonía que no puedo ver y por eso no te sientes bien y entonces mi salvadora fría y el doctor álvarez y su hijo y mi hijo son muy buenos amigos y entonces me llamo adentro y estábamos hablando platicando sobre los niños y todo cuando luego decir esto no me gusta estaba mirando la biografía y eso hace con esas palabras se me cambió la vida esta tarde me mandaron a un cat kan que definitivamente dijo que tenía algo y entonces el lunes fuimos en huesca y el pesca pues confirmó que tenía una lesión en el lóbulo alto del pulmón izquierdo  sí que las cubren,0,,,0
+Cáncer ,Primera Persona ,"trabajé en una empresa láctea de aquí 43 años y bueno hasta que llegó el momento de la jubilación yo soy músico de muchos años en este momento no lo hago comercialmente sino lo hago como verdaderamente como hobby en 2014 la 
+consecuencia de una evaluación de de la vena aorta digamos de la parte cardiaca interna ninguna patología por supuesto pero a raíz de eso este aparece dentro de la tomografía una imagen en el riñón derecho o sea una imagen de 52 milímetros por 47 y bueno sí que a raíz de eso evaluaron de que había que sacar el riñón completo porque el tamaño del tumor así lo ameritaban a cierto yo venía con controles periódicos y bueno en el año 2019 a fines en uno de esos controles aparece una imagen en él en el pulmón derecho en la base el pulmón derecho sean a través de la tomografía aparece una imagen de 13 milímetros y ahí fue cuando desde la clínica este mi médico el urólogo bueno me derivó a que el centro",1,derivación médica,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,por ser d de una ciudad digamos o un pueblo grande como los nacidos de acá decimos que es un chalet este un pueblo grande bueno es un orgullo ni hablar a después del tratamiento no tuve efecto secundario existe un mito en torno al cáncer la gente no habla de cáncer,1,estigmatización,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,entonces es poco lo que el ciudadano común sabe de cáncer y la realidad es que ahora por suerte hay muchas muchísimas oportunidades de tratar el cáncer en esta circunstancia de diagnóstico de cáncer poder si se quiere enseñarles que hay muchas cosas para hacer y que la radioterapia es un pilar muy importante de hecho es uno de los tres pilares de tratamiento del cáncer y cómo ha ido avanzando la tecnología hasta lo último de lo último que es lo que tenemos nosotros la diferencia que se nota con respecto a otros tratamientos es la gran disminución de la toxicidad de los tratamientos de la radioterapia aunque no parezca también tiene toxicidad una vez que es imprescindible irradiar tejido sano para poder tener un buen margen en la irradiación del tejido enfermo tiene toxicidad al poder ser tan preciso en el campo irradiar con esta tecnología la toxicidad es muchísimo menor y también por supuesto que en los tratamientos que son más específicos de tumores tipos de tumores metástasis que no se pueden tratar con otro tipo de tecnología bueno realmente eso hace la diferencia verdad que se siente orgullo porque te repito esto es una ciudad muy pequeña esto es el interior del interior del país tratamos de trabajar y hacer lo mejor posible ayudados por por eso por la infraestructura que siempre en este tipo de tratamiento que es imprescindible mi nombre es el del gimnasio fiorito soy de aquí de la ciudad de sunchales nacido  y bueno toda mi vida le pase de lópez en sunchales,0,,,0
+Cáncer ,Primera Persona ,"Voy a intentar describir los últimos 24 años de mi vida desde el punto de vista de la lucha contra el linfoma, todo sea dicho de paso, bastante distraída.",0,,,0
+Cáncer ,Primera Persona ,"Para poneros en situación, en ese momento, yo tenía 31 años, casado y padre de un niño de 1 año y poco.",0,,,0
+Cáncer ,Primera Persona ,"Practicante de ciclismo de montaña, federado, fumador, pero poco (1 o 2 cigarrillos diarios) y bebedor ocasional y de festejos.",0,,,0
+Cáncer ,Primera Persona ,"Medía 1,75m y pesaba 75kg, se podría considerar que no estaba en mala forma.",0,,,0
+Cáncer ,Primera Persona ,Año 1995.,0,,,0
+Cáncer ,Primera Persona ,"Me encuentro un bultito en el párpado superior izquierdo, del tamaño de un granito de arena.",0,,,0
+Cáncer ,Primera Persona ,"El primero que piensas es que te está a punto de salir un orzuelo, pero pasan los días y no varía.",0,,,0
+Cáncer ,Primera Persona ,"Así que pido hora y voy a la mutua, en aquella época, Allianz, para pedir hora con un oftalmólogo.",0,,,0
+Cáncer ,Primera Persona ,"Durante la visita, el médico dice que, con toda posibilidad, será un quiste de grasa, pero qué para estar seguros, mejor hacer un TAC.",0,,,0
+Cáncer ,Primera Persona ,"Una vez hecho y en su segunda visita, me confirma su primera impresión.",0,,,0
+Cáncer ,Primera Persona ,"¡Qué descanso! ¡Para casa! 
+ 
+Ese mismo año, por motivos personales, tengo una temporada de nervios y el bultito empieza a crecer, hasta tener el tamaño de un grano de arroz.",0,,,0
+Cáncer ,Primera Persona ,"Segunda visita al oftalmólogo, que insiste con el diagnóstico y se ofrece a operar y quitarlo o esperar.",0,,,0
+Cáncer ,Primera Persona ,"No molesta, así que esperamos",1,espera,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,6 meses después tengo el ojo izquierdo práctimente cerrado,1,evolución sintomatología,Dimensión 3: Bodily Pain,1
+Cáncer ,Primera Persona ,Ya estamos a finales de 1996.,0,,,0
+Cáncer ,Primera Persona ,"Nueva visita al Oftalmólogo, que vuelve a pedir un nuevo TAC.",0,,,0
+Cáncer ,Primera Persona ,"Al llegar a la sala del TAC, el radiólogo me pregunta qué hago otra vez allí, que ya le había dicho al doctor que era un tumor",1,dificultad comunicación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,"Una vez tenemos el resultado de la Tomogradía, el oftalmólogo insiste en que es un quiste y me dan hora para la UCSI per hacer la extracción.",0,,,0
+Cáncer ,Primera Persona ,"Una vez en el quirófano, con anestesio local (que no explicaré cómo funciona por si hay alguien sensible), escucho al lumbreras decir: “anda pero si tiene raíces, entonces no es un quiste, es un tumor.",0,,,0
+Cáncer ,Primera Persona ,Saca un cacho para analizar.,0,,,0
+Cáncer ,Primera Persona ,” ¡Ole tú! ¿Cómo te quedas?,2,insatisfacción proceso diagnóstico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,” ¡Ole tú! ¿Cómo te quedas?,2,insatisfacción comunicación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,"Pasados 15 días, nueva visita, donde me dicen que es un tumor maligno y que me tengo que visitar con el Dr.",0,,,0
+Cáncer ,Primera Persona ,B de HematoOncología,1,derivación especialista,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,Esta fue la primera visita que hacía acompañado de mi pareja,1,búsqueda apoyo pareja,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,y salimos temblando,1,impacto emocional diagnóstico,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,Un tumor maligno en la cabeza,1,confirmación diagnóstico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,"Días después, visita con el Dr.",0,,,0
+Cáncer ,Primera Persona ,B de HematoOnco.,0,,,0
+Cáncer ,Primera Persona ,Simplemente nos informa de las pruebas que me tengo que hacer para saber a qué nos estamos enfrentando.,0,,,0
+Cáncer ,Primera Persona ,"Nuevo TAC, resonancia, extracción de cresta y extracción de médula ósea, además de una analítica completa, con una cosa que no sabía que teníamos, los lactatos.",0,,,0
+Cáncer ,Primera Persona ,"Antes de la siguiente visita, en la sala de espera, mi pareja y yo estábamos templando de miedo",1,miedo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,por cual podía ser el diagnóstico,1,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"Una vez en el despacho, la primera pregunta que hice fue: “¿Cuánto tiempo me queda?” Respuesta del Dr: “Jode, pero no mara” ¡¡¡Bufff!!! 
+ 
+Diagnóstico: 36 tumores entre la cabeza, el tórax y abdomen del tipo Linfoma B de Malto.",0,,,0
+Cáncer ,Primera Persona ,"Nombres que suenan a chino la primera vez, y que acaban siendo tu tercer apellido.",0,,,0
+Cáncer ,Primera Persona ,Tratamiento: quimioterapia del tipo Chop.,0,,,0
+Cáncer ,Primera Persona ,"Inicio, al salir del despacho, directo a HDD a pedir hora y empezar al día siguiente.",0,,,0
+Cáncer ,Primera Persona ,Y así fue como empezamos.,0,,,0
+Cáncer ,Primera Persona ,"La primera vez, una vez acabado, me fui al trabajo, donde empezaron las arcadas, pero pude aguantar.",0,,,0
+Cáncer ,Primera Persona ,Entre la 1ª y la 2ª pasaron el HDD al Sagrado Corazón y me cambiaron el Dr.,0,,,0
+Cáncer ,Primera Persona ,B por la Dra.,0,,,0
+Cáncer ,Primera Persona ,M.,0,,,0
+Cáncer ,Primera Persona ,"A partir de aquí, me inyectaban un jueves durante 2 horas, cuando tenía que durar 4 o 5, me iba a casa en moto, con el tiempo calculado para meterme en la cama, a oscuras, acompañado de una botella de cocacola, para calmar el estómago y un cubo para recoger los efluvios",1,afrontamiento centrado problema: búsqueda soluciones,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,El fin de semana posterior a la 3.,0,,,0
+Cáncer ,Primera Persona ,"ª toma, cogí un resfriado y se manifestó domingo, apenas al volver de la salida en bici, mientras estábamos almorzando los compañeros y yo.",0,,,0
+Cáncer ,Primera Persona ,"Noté picor en la cabeza y, al rascarme, retiré la mano llena de cabellos",1,efectos secundarios tratamiento: caída pelo,Dimensión 1: Physical Functioning,1
+Cáncer ,Primera Persona ,Me cogí un fajo y lo retiré de la cabeza sin ningún esfuerzo.,0,,,0
+Cáncer ,Primera Persona ,"Llegado a casa, vi que aquello era imparable, así que lo aceleré.",0,,,0
+Cáncer ,Primera Persona ,Pasé la “moto” y desprendido me afeité la cabeza,1,búsqueda soluciones,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"En cuanto a la forma física, notaba una continua bajada.",0,,,0
+Cáncer ,Primera Persona ,"Tanto es así que, desprendido de la 5.",0,,,0
+Cáncer ,Primera Persona ,"ª toma, perdí el sentido en una subida en bici por dentro del bosque",1,limitaciones físicas,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,Y a la 6.,0,,,0
+Cáncer ,Primera Persona ,ª ya no pude salir.,0,,,0
+Cáncer ,Primera Persona ,Y cuando se enteró la Dra.,0,,,0
+Cáncer ,Primera Persona ,M.,0,,,0
+Cáncer ,Primera Persona ,", me pegó una bronca de las buenas.",0,,,0
+Cáncer ,Primera Persona ,Parece que no tendría que haber podido hacer ejercicio a partir de la 2ª.,0,,,0
+Cáncer ,Primera Persona ,"A partir de aquí, vida fácil y revisión cada 6 meses.",0,,,0
+Cáncer ,Primera Persona ,"A los 2 años y medio, el lactato que se posa disparado.",0,,,0
+Cáncer ,Primera Persona ,"¡¡Ya volvemos!!! Entonces es cuando me derivan al Clínico, como bicho raro, dado que, segundos me dicen, este tipo de tumores son más habituales en gente mayor que en gente de mi edad",1,comparación social,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,En el Clínico me hacen paciente de la Dra.,0,,,0
+Cáncer ,Primera Persona ,"MR, que me hace más o menos las mismas pruebas y encuentran 6 “okupas” entre tórax y abdomen",1,complicaciones enfermedad,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"Es en aquel momento que me proponen entrar en I+D, para probar nuevos tratamientos",1,participación ensayos clínicos,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"Yo encantado de la vida, mientras no tenga que hacer otro Chop, lo que sea.",0,,,0
+Cáncer ,Primera Persona ,"El tratamiento que proponen es con un producto que se llama Rituximab, y parece que ataca solo las células afectadas, con poca o ninguna incidencia al resto del cuerpo.",0,,,0
+Cáncer ,Primera Persona ,"Las sesiones son de seis horas la primera y 4 el resto, de un total de 4 sesiones.",0,,,0
+Cáncer ,Primera Persona ,"Durante la primera pasas toda una gripe y sales baldado, pero comparado con el Chop, un paseo.",0,,,0
+Cáncer ,Primera Persona ,"Además, afecta poco a la forma física y me permite hacer las tres salidas semanales en bici.",0,,,0
+Cáncer ,Primera Persona ,"Aparece, eso sí, una cierta predisposición al vómito, sobre todo cuando estás haciendo esfuerzo o cuando te enfrías, pero se soporta bien",1,efectos secundarios tratamiento,Dimensión 1: Physical Functioning,1
+Cáncer ,Primera Persona ,"Y volvemos a las revisiones periódicas, cada seis meses.",0,,,0
+Cáncer ,Primera Persona ,"Tres años y medio desprendido, los resultados de la analítica dan la alarma.",0,,,0
+Cáncer ,Primera Persona ,Esta vez “solo” tres tumores en el pecho.,0,,,0
+Cáncer ,Primera Persona ,Se pide biopsia de uno de los tumores para comprobar que son del mismo tipo que hasta ahora.,0,,,0
+Cáncer ,Primera Persona ,"Nada, un pinchazito",1,minimizaición,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"Resultó que el tumor estaba demasiado cerca del corazón y, cuando ya habían entrado con la endoscopia, se hicieron atrás, hicieron un corte siguiendo las costillas y abrieron la “persiana” para meter la mano y sacar un trocito.",0,,,0
+Cáncer ,Primera Persona ,"Aquello que tenía que ser entrar y salir, ha sido mi única baja laboral de mi vida.",0,,,0
+Cáncer ,Primera Persona ,"(Hay que aclarar que, con seis quimios durante 21 años, 6 operaciones y multitud de pruebas, solo he tenido una baja laboral)",1,confrontación,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"Esta vez también me ofrecieron participar en otro estudio de un nuevo medicamento, esta vez se llamaba Velcade participación ensayos clínicos]",0,,,0
+Cáncer ,Primera Persona ,"Son sesiones cortas, de solo 1 hora, pero 6 series de 6 sesiones, con un total de 36 en un plazo total de 4 meses.",0,,,0
+Cáncer ,Primera Persona ,"Lo más molesto de este tratamiento fue que, antes de cada toma se tenía que hacer una analítica, esperar el resultado",1,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"y, dependiendo de este, preparar la dosis.",0,,,0
+Cáncer ,Primera Persona ,"Así que ya me tienes yendo a primera hora al HDD, punzada, vía, extracción de sangre, protección y malla elástica y a trabajar hasta recibir la llamada e ir a recibir el “biberón”.",0,,,0
+Cáncer ,Primera Persona ,"Lo más divertido era que, como jefe de obra, a veces me coincidía con visita de obra y, al ser verano, se veía la malla, la gasa y la vía.",0,,,0
+Cáncer ,Primera Persona ,Las caras de los otros técnicos era un poema,1,estigmatización,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,Fuera de que llevaba los brazos que parecía un yonqui.,0,,,0
+Cáncer ,Primera Persona ,Este tratamiento era más agresivo que el anterior.,0,,,0
+Cáncer ,Primera Persona ,"Aun así, ni comparación con el primero.",0,,,0
+Cáncer ,Primera Persona ,"Desgastaba más la forma física que el segundo, y el tema de los vómitos era algo más acentuado, pero era factible ir con la bici, todas las salidas previstas, aunque a un ritmo más suave",1,addaptación actividad física,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,"Dos años después, se reprodujeron los tumores, con lo cual se comprobó que, este tratamiento, no era suficiente efectivo por este tipo de tumores.",0,,,0
+Cáncer ,Primera Persona ,Se decidió volver al Rituximab,1,cambio tratamiento farmacológico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,Con este tratamiento me han hecho tres quimios más.,0,,,0
+Cáncer ,Primera Persona ,"Después de tanto tiempo, de pasar por tantos HDD, por tantas manos que te pinchan y de tantos “colegas” de silla, ves el ambiente real que se respira en estos espacios.",0,,,0
+Cáncer ,Primera Persona ,"La diferencia entre la gente que empieza, atemorizados, silenciosos y con un punto de abatimiento",1,comparación social,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,", y los que, como yo, llevamos mucho tiempo, restando hierro al asunto siempre que se puede",1,relativización,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,", charlando",1,expresión emocional,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,", saludando enfermeras que casi son de la familia",1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,", bromeando de la dificultad de encontrar vena",1,humor,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,", etc.",0,,,0
+Cáncer ,Primera Persona ,También se distinguen los acompañantes del paciente en estas categorías,1,comparación social,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,"Los nuevos están muy pendientes de las reacciones del paciente, hablando con frases cortas y grandes espacios de tiempos entre frases.",0,,,0
+Cáncer ,Primera Persona ,"Los reincidentes acostumbran a charlar más con el paciente, o comentando revistas, haciendo que el tiempo pase más deprisa.",0,,,0
+Cáncer ,Primera Persona ,"Por mi parte, yo he ido siempre solo",1,autonomía,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,", incluso a las pruebas y a las biopsias.",0,,,0
+Cáncer ,Primera Persona ,"Me llevo mis caramelos, el portátil con películas o series y dejo pasar el tiempo, o me hago una siesta, que las sillas son muy cómodas",2,búsqueda soluciones,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"Me llevo mis caramelos, el portátil con películas o series y dejo pasar el tiempo, o me hago una siesta, que las sillas son muy cómodas",2,adaptación,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,"En estos momentos, estoy en periodo entre revisiones y ya hace más de cinco años desde la última visita al HDD.",0,,,0
+Cáncer ,Primera Persona ,Sigo haciendo bicicleta de montaña.,0,,,0
+Cáncer ,Primera Persona ,"Pero, a partir de la 4.",0,,,0
+Cáncer ,Primera Persona ,"ª quimioterapia, empecé a sufrir calambres en las piernas, provocadas por una retracción de los terminales nerviosos de los hombros, que no informan de la carencia de alimentación de estos.",0,,,0
+Cáncer ,Primera Persona ,Un efecto secundario de tantos tratamientos,1,efectos secundarios tratamiento,Dimensión 1: Physical Functioning,1
+Cáncer ,Primera Persona ,Por eso he acabado usando bicicleta eléctrica.,0,,,0
+Cáncer ,Primera Persona ,Ahora los calambres se manifiestan en cualquier parte del cuerpo y en cualquier momento.,0,,,0
+Cáncer ,Primera Persona ,Lo considero un precio pequeño dentro del buen estado general,1,relativización,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,", más cuando pienso el mal trance pasado al comienzo, y mucho más pensando en otros pacientes que no han tenido tanta suerte como yo.",0,,,0
+Cáncer ,Primera Persona ,El año pasado mi pareja y yo nos fuimos de vacaciones a Cádiz.,0,,,0
+Cáncer ,Primera Persona ,"Unos días antes, en casa, ya me notaba un poco regular, pero no le di importancia ya que parecía como que me iba a resfriar y, algún día, tuve alguna décima, pero nada extraño, no superaba los 37.",0,,,0
+Cáncer ,Primera Persona ,2°C.,0,,,0
+Cáncer ,Primera Persona ,Durante las vacaciones algún día llegué a 37.,0,,,0
+Cáncer ,Primera Persona ,"4°​C, pero lo solucionaba todo con un ibuprofeno y ya no me subía más durante todo el día, a parte, algún día por la mañana recién despierta me daban náuseas, era mucosidad.",0,,,0
+Cáncer ,Primera Persona ,"Pero en general yo me encontraba bien, solo me pasaba eso recién levantada, durante el día me encontraba bien.",0,,,0
+Cáncer ,Primera Persona ,Una vez llegamos a casa empezó lo duro.,0,,,0
+Cáncer ,Primera Persona ,A los tres o cuatro días la fiebre empezó a subir hasta 37.,0,,,0
+Cáncer ,Primera Persona ,5°C,1,conciencia sintomatología: fiebre,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,"y yo seguía con mi ibuprofeno y asociando el resfriado a las 15 horas en coche con el aire acondicionado, entonces lo vi normal.",0,,,0
+Cáncer ,Primera Persona ,Perdí unos dos o tres quilos ya que apenas comía porque la mucosidad me producía nauseas.,0,,,0
+Cáncer ,Primera Persona ,A las semana y media o dos aproximadamente al ver que yo no mejoraba y seguía expulsando mucosidad por la boca,1,empeoramiento síntomas,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,", acudí a urgencias del centro médico",1,búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,La doctora me dijo que tenía un poco de placas de pus y que me va iba a recetar antibiótico y fluimucil para ayudar a la expulsión de la mucosidad.,0,,,0
+Cáncer ,Primera Persona ,"Le comenté que me notaba la barriga más dura de lo habitual y me dijo que era totalmente normal, que era el músculo que estaba sobrecargado del esfuerzo a la hora de expulsar mucosidad.",0,,,0
+Cáncer ,Primera Persona ,"Estuve algunos días haciendo el tratamiento que me había mandado y no vi ninguna mejora, todo lo contrario, la fiebre seguía subiendo y yo no paraba de vomitar mucosidad",1,empeoramiento síntomas,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,"A las dos semanas, cuando terminé con el antibiótico y vi que seguía igual, volvimos a ir de urgencias al centro médico",1,búsqueda apoyo profesional,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,"Le comenté a la doctora que no paraba de vomitar y me dijo que era normal, que era el efecto del medicamento para ayudar a expulsar el moco pero que aún y así me iba a cambiar el fluimucil por cinfatós, y que si la fiebre no llegaba a 39°C que no hacía falta que volviese.",0,,,0
+Cáncer ,Primera Persona ,"A las dos semanas, cuando terminé con el antibiótico y vi que seguía igual, volvimos a ir de urgencias al centro médico",1,dificultad proceso diagnóstico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,"Le comenté a la doctora que no paraba de vomitar y me dijo que era normal, que era el efecto del medicamento para ayudar a expulsar el moco pero que aún y así me iba a cambiar el fluimucil por cinfatós, y que si la fiebre no llegaba a 39°C que no hacía falta que volviese.",0,,,0
+Cáncer ,Primera Persona ,"Yo seguía igual, y cada día me veía más delgada, pero como me dijo la doctora que si no superaba los 39°C no volviera, yo me quedé con eso, lo veía raro y en el fondo sabía que algo no iba bien y el miedo me superó",2,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"Yo seguía igual, y cada día me veía más delgada, pero como me dijo la doctora que si no superaba los 39°C no volviera, yo me quedé con eso, lo veía raro y en el fondo sabía que algo no iba bien y el miedo me superó",2,miedo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,Siempre encontraba una excusa para encontrarle la causa a la fiebre,2,relativización,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,Siempre encontraba una excusa para encontrarle la causa a la fiebre,2,normalización,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,Empezó a darme ansiedad cada vez que salía a la calle,1,ansiedad,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,", empezaban los mareos cada vez que me levantaba, y no podía estar de pie más de cinco minutos",2,limitación física,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,", empezaban los mareos cada vez que me levantaba, y no podía estar de pie más de cinco minutos",2,limitación movilidad,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,"Pasaban los días y yo no podía moverme del sofá, me levantaba a hacer la comida y fregar los platos y las piernas me flaqueaban",1,fatiga,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,", y, una vez más, me decía a mí misma que eso me pasaba por estar perdiendo musculatura y llevar días sin apenas moverme, sólo para lo necesario",1,racionalización,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"Fueron pasando los días, y yo cada vez más delgada y la barriga más inflamada (¡parecía que estuviera embarazada de cinco meses!), y yo, como quería hacerme ver a mi misma que todo estaba bien y no pasaba nada, seguía haciendo caso a lo que me dijo la doctora",2,racionalización,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"Fueron pasando los días, y yo cada vez más delgada y la barriga más inflamada (¡parecía que estuviera embarazada de cinco meses!), y yo, como quería hacerme ver a mi misma que todo estaba bien y no pasaba nada, seguía haciendo caso a lo que me dijo la doctora",2,negación,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"Así pasaron unos dos meses más, incluso fui a la psicóloga",1,búsqueda apoyo profesional: psicólogo,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,porque tanto mi familia como yo pensamos que estaba con depresión y por eso no podía ni salir,1,depresión,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,Yo no entendía nada,1,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,", nunca me había entrado ansiedad ni ahogo por salir a la calle",1,ansiedad,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,La fiebre,1,conciencia sintomatología: fiebre,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,"no paraba de subir, ya no eran 37.",0,,,0
+Cáncer ,Primera Persona ,"5°C, ya iba por más de 38°C",1,empeoramiento sintomatología,Dimensión 1: Physical Functioning,1
+Cáncer ,Primera Persona ,"Ya ni el ibuprofeno me la podía bajar, y qué decir del paracetamol.",0,,,0
+Cáncer ,Primera Persona ,ni cuatro horas me duraba el efecto.,0,,,0
+Cáncer ,Primera Persona ,Me subía a media noche y eso ya me resultaba más raro,1,empeoramiento sintomatología,Dimensión 1: Physical Functioning,1
+Cáncer ,Primera Persona ,", porque siempre me solía subir sobre la misma hora.",0,,,0
+Cáncer ,Primera Persona ,Tanto por la mañana como por la noche.,0,,,0
+Cáncer ,Primera Persona ,Eran solo dos veces al día.,0,,,0
+Cáncer ,Primera Persona ,"Un día, cuando ya superé los 39°C, ya me asusté más de la cuenta, ya sabía seguro que algo estaba pasando.",0,,,0
+Cáncer ,Primera Persona ,"aparte, os parecerá una estupidez, pero en Instagram me salió en recomendados varias veces la Fundación.",0,,,0
+Cáncer ,Primera Persona ,"La primera vez vale, la segunda pensé.",0,,,0
+Cáncer ,Primera Persona ,"qué raro, ¡otra vez! Ya cuando iban varias veces, me rayé muchísimo",1,preocupación,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"Solo hacía que pensar en que podía ser una señal y eso hacía que me acordara de Pablo Ráez y, con ello, de la posibilidad de que lo que me estuviera pasando a mí, fueran síntomas de una leucemia.",0,,,0
+Cáncer ,Primera Persona ,"A esto se le sumó que no me podía ni levantarme de la cama porque me cansaba en seguida, me entraban mareos y ansiedad",2,conciencia sintomatología: mareos,Dimensión 1: Physical Functioning,1
+Cáncer ,Primera Persona ,"A esto se le sumó que no me podía ni levantarme de la cama porque me cansaba en seguida, me entraban mareos y ansiedad",2,ansiedad,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"Entonces, decidí llamar a mi madre y decirle que fuéramos de urgencias al hospital.",0,,,0
+Cáncer ,Primera Persona ,"Ya estaba más que claro que lo que me pasaba no era normal, la barriga estaba ya como si fueran 8 meses y yo cada vez más delgada",2,conciencia sintomatología: hinchazón,Dimensión 1: Physical Functioning,1
+Cáncer ,Primera Persona ,"Ya estaba más que claro que lo que me pasaba no era normal, la barriga estaba ya como si fueran 8 meses y yo cada vez más delgada",2,delgadez,Dimensión 1: Physical Functioning,1
+Cáncer ,Primera Persona ,"Llegó el miércoles 13 de febrero, fuimos de urgencias al hospital de Granollers y, una vez allí, yo no me pude bajar ni del coche.",0,,,0
+Cáncer ,Primera Persona ,"Ahogándome y llorando porque sabía que, a la que bajara, me iba a desplomar (tenía que andar solo unos 100 metros, pero para mí era como un kilómetro).",0,,,0
+Cáncer ,Primera Persona ,Mi madre me tranquilizó,1,búsqueda apoyo familiar,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,y fuimos hasta allí poco a poco.,0,,,0
+Cáncer ,Primera Persona ,Me pasaron corriendo a dónde la enfermera y mi madre le explicó lo que me pasaba y todos los síntomas.,0,,,0
+Cáncer ,Primera Persona ,Me tumbaron en una camilla porque yo sentada no podía estar tampoco por los mareos y flojera.,0,,,0
+Cáncer ,Primera Persona ,Me preguntó si estaba embarazada y yo me quedé alucinando.,0,,,0
+Cáncer ,Primera Persona ,"Después de 6 horas para que me atendieran el médico decidió hacerme un test de embarazo, y me dijo que tenía una masa, que estaba duro y no era de los esfuerzos al vomitar.",0,,,0
+Cáncer ,Primera Persona ,Me hicieron una analítica de sangre y de orina y una eco abdominal.,0,,,0
+Cáncer ,Primera Persona ,"A mí, en ese momento no me dijeron nada, pero llamaron del laboratorio diciendo que esperaban que fuese un error pero que había una paciente con muy mal pronóstico",1,confirmación diagnóstico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,Esa era yo.,0,,,0
+Cáncer ,Primera Persona ,"Llamaron a mi padre, mientras yo estaba con mi madre en la sala de recuperación con un paracetamol y suero.",0,,,0
+Cáncer ,Primera Persona ,"Le dijeron que me tenían que trasladar corriendo al Hospital Clínic, que estaba en estado crítico y con los leucocitos por las nubes.",0,,,0
+Cáncer ,Primera Persona ,Los tenía a 460.,0,,,0
+Cáncer ,Primera Persona ,000 cuando el máximo son 10.,0,,,0
+Cáncer ,Primera Persona ,"000, y ya me dieron una pastilla para ir bajándolos y cortisona vía endovenosa, así que yo no me enteré de nada.",0,,,0
+Cáncer ,Primera Persona ,"Mi padre salió con mi madre y se lo dijo, hicieron el papel de su vida, no entiendo aún como pudieron estar tan fuertes delante de mí para que yo no sospechara nada (querían esperar a que me lo dijera el hematólogo del Clínic, y ¡¡menos mal!)",1,sobreprotección,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,"La ambulancia tardó solo 7min y, una vez allí, todos los médicos iban a la velocidad de la luz.",0,,,0
+Cáncer ,Primera Persona ,"Una vez pasadas las 12 de la noche vino el hematólogo, ya era 14 de febrero (menudo San Valentín…, no se me va a olvidar).",0,,,0
+Cáncer ,Primera Persona ,"A la que entró y me dijo que era el hematólogo yo ya sabía que todas mis sospechas eran ciertas, tenía leucemia",1,confirmación diagnóstico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,No me lo podía creer,1,negación,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,", la palabra que tanto miedo me daba",1,miedo,Dimensión 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,"y la enfermedad que siempre había temido tener, la tenía, cáncer.",0,,,0
+Cáncer ,Primera Persona ,No podía parar de llorar,1,llanto,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,", de gritar",1,rabia,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,", de meter patadas",1,rabia,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"cuándo creía que nada podía ir peor, zasca, vaya si podía.",0,,,0
+Cáncer ,Primera Persona ,Sólo hacía que cuestionarme: ¿por qué yo?,2,rabia,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,Sólo hacía que cuestionarme: ¿por qué yo?,2,comparación social,Dimensión 6: Social Functioning,1
+Cáncer ,Primera Persona ,con sólo 28 años.,0,,,0
+Cáncer ,Primera Persona ,"Luego te das cuenta de que esto no tiene edad, te puede tocar con 6 meses, 10 años o 28.",0,,,0
+Cáncer ,Primera Persona ,Durante 20 minutos lloré como nunca,1,llanto,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,", grité como nunca",1,rabia,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,y me enfadé como nunca,1,enfado,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,"Sólo fueron 20 minutos, digo “sólo” porque si no hubiese sido por el hematólogo habrían sido días, muchos días.",0,,,0
+Cáncer ,Primera Persona ,Me dio una confianza increíble,1,satisfacción comunicación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,", me dijo que me permitiera estar mal dos días, pero no más.",0,,,0
+Cáncer ,Primera Persona ,Que me prometía que me iba a curar,1,esperanza,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,", pero que tenía que estar fuerte y luchar mucho, sobre todo con la actitud",1,espíritu lucha,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"Me comunicó que al día siguiente me iba a hacer el aspirado de médula ósea para saber el nivel de enfermedad y el tipo de leucemia, pero que, por las analíticas, ya sabía que era leucemia mieloide crónica.",0,,,0
+Cáncer ,Primera Persona ,"En este tipo de leucemia muchas células se van al bazo o al riñón, en mi caso fue al bazo, por eso tal tamaño de barriga.",0,,,0
+Cáncer ,Primera Persona ,"El bazo está en la izquierda, a mí me llegaba casi a la cadera derecha de tal inflamación.",0,,,0
+Cáncer ,Primera Persona ,"Me hicieron una placa y vieron que tenía líquido en el pulmón, a los tres días me hicieron un drenaje y con el pleurevac (drenaje torácico) una semana: ¡3.",0,,,0
+Cáncer ,Primera Persona ,"200L de líquido! Los médicos estaban todos alucinados, entre el pulmón, el bazo y los niveles de leucocitos no sabían cómo había podido aguantar, vino a verme hasta el jefe de hematología y también el doctor que me lleva ahora, experto en mi tipo de leucemia.",0,,,0
+Cáncer ,Primera Persona ,"Pero yo, de ese día, ni me acuerdo, solo sabía que me sonaba su cara.",0,,,0
+Cáncer ,Primera Persona ,"Me ingresaron en planta, ¡¡bendita Laia!! Qué paciencia tuvo conmigo, y cómo me supo llevar de bien para que yo no me preocupara por nada o, por lo menos, lo mínimo posible, siempre que había algo nuevo ella me tranquilizaba",1,satisfacción apoyo profesional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,y se lo agradeceré siempre,1,agradecimiento,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,Tanto a ella como a los demás enfermeros.,0,,,0
+Cáncer ,Primera Persona ,"Me pesaron y no me lo podía creer, había perdido 33 kilos, a causa de la enfermedad",1,conciencia sintomatología: pérdida peso,Dimensión 1: Physical Functioning,1
+Cáncer ,Primera Persona ,"Al día siguiente, cuando pasaron los hematólogos por la mañana, me comunicaron que íbamos a empezar con el tratamiento",1,inicio tratamiento,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,(en el momento que me ingresaron me dieron la quimioterapia en pastilla).,0,,,0
+Cáncer ,Primera Persona ,"Me dijo que empezaríamos con pastillas y, según reaccionara mi cuerpo, seguiríamos con este tratamiento o, si fuera mal y tuviera que ir a la UCI, tendría que hacer quimio endovenosa y lo más seguro un trasplante de médula ósea.",0,,,0
+Cáncer ,Primera Persona ,"Tenían que controlarme muchísimo los primeros días sobre todo para que eso no pasara, los primeros días eran cruciales.",0,,,0
+Cáncer ,Primera Persona ,"Empezamos con la aféresis, la primera vez duró una hora y media y, la segunda, unas tres horas.",0,,,0
+Cáncer ,Primera Persona ,"Iban pasando los días y los hematólogos aún no podían decir nada de cómo estaba funcionando el tratamiento ya que el nivel de leucocitos con el que llegué era altísimo, pero yo cada día me veía la barriga más deshinchada, con lo cual, el bazo se iba desinflamando y, con ello, las células cancerígenas estaban muriendo, lo estábamos consiguiendo",1,esperanza,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"Tanto mi cuerpo, como yo.",0,,,0
+Cáncer ,Primera Persona ,"La fiebre siguió conmigo durante unos días, por la enfermedad.",0,,,0
+Cáncer ,Primera Persona ,Así hasta las dos semanas aproximadamente que desapareció,1,remisión sintomatología: fiebre,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,Estaba feliz,1,alegría,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,", después de 56 meses ya no me acordaba lo que era estar sin fiebre y encontrarme mínimamente bien.",0,,,0
+Cáncer ,Primera Persona ,"A los días, cuando ya vieron los médicos como estaba yendo todo y estuvieron seguros, me lo comunicaron, el tratamiento estaba haciendo efecto y mi cuerpo lo estaba admitiendo bien",2,eficacia tratamiento,Dimensión 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"A los días, cuando ya vieron los médicos como estaba yendo todo y estuvieron seguros, me lo comunicaron, el tratamiento estaba haciendo efecto y mi cuerpo lo estaba admitiendo bien",2,esperanza,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"No creían que tuviera que pasar por un trasplante de médula ósea, ese fue el mejor anuncio del mundo para mí",1,esperanza,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,"Aun así, animo a todo el mundo que pueda a donar, gracias a la gente que dona",1,agradecimiento,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,me pudieron transfundir siete bolsas de sangre que son las que necesité.,0,,,0
+Cáncer ,Primera Persona ,"Parece tanto, pero es tan sencillo.",0,,,0
+Cáncer ,Primera Persona ,"ya sea médula, sangre, plaquetas, plasma.",0,,,0
+Cáncer ,Primera Persona ,"El 8 de marzo me dieron el alta, ¡qué mejor día que el de la mujer! 
+ 
+Estuve en dos consultas en el hospital de día, pero, como todo iba bien, ya me pasaron a consultas externas.",0,,,0
+Cáncer ,Primera Persona ,"Tengo un poco de anemia, pero nada fuera de lo normal y todo dentro de lo normal en personas con enfermedades oncohematológicas.",0,,,0
+Cáncer ,Primera Persona ,"Y aquí estoy, con mi Nilotinib dos veces al día y de momento ¡bien! Viviendo la vida con otra mentalidad, disfrutando de cada momento",1,disfrute presente,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,", dándole importancia a cosas que antes no le daba y no dándoselas a cosas que antes se las daba",1,relativización,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,Vivir de verdad y dando gracias por estar aquí,2,desarrollo personal,Dimensión 5: Vitality,1
+Cáncer ,Primera Persona ,Vivir de verdad y dando gracias por estar aquí,2,agradecimiento,Dimensión 8: Mental Health,1
+Cáncer ,Primera Persona ,Cambia todo tanto en un solo segundo.,0,,,0
+Cáncer ,Primera Persona ,,1,incertidumbre,Dimensión 8: Mental Health,1
+Esquizofrenia ,Primera Persona ,Usted me dijo que volviera.,0,,,0
+Esquizofrenia ,Primera Persona ,No sé para qué.,0,,,0
+Esquizofrenia ,Primera Persona ,La medicación que me pone me mata,1,insatisfacción tratamiento,Dimensión 9: Healthcare Interaction,1
+Esquizofrenia ,Primera Persona ,"Es esa maldita inyección, me hace sentir lo que no soy",1,efectos secundarios tratamiento,Dimensión 1: Physical Functioning,1
+Esquizofrenia ,Primera Persona ,Las voces siguen criticando todo lo que hago,1,sintomatología: alucionciones,Dimensión 7: Role Limitations due to Emotional Problems,1
+Esquizofrenia ,Primera Persona ,", pero parece que me importa menos",1,relativización,Dimensión 8: Mental Health,1
+Esquizofrenia ,Primera Persona ,"Lo que no soporto es lo que diga mi madre, sea lo que sea",1,enfado,Dimensión 8: Mental Health,1
+Esquizofrenia ,Primera Persona ,Me sigue hablando sin parar.,0,,,0
+Esquizofrenia ,Primera Persona ,"Y lo de la televisión es ya el colmo, sobre todo lo de los pobres y lo de los maricas.",0,,,0
+Esquizofrenia ,Primera Persona ,Siempre mienten.,0,,,0
+Esquizofrenia ,Primera Persona ,Todos mienten y especialmente los médicos.,0,,,0
+Esquizofrenia ,Primera Persona ,Sé que mienten porque me dicen que estoy bien pero no estoy bien,1,insatisfacción comunicación médico-paciente,Dimensión 9: Healthcare Interaction,1
+Esquizofrenia ,Primera Persona ,; me quiero a veces morir,1,pensamiento suicida,Dimensión 8: Mental Health,1
+Esquizofrenia ,Primera Persona ,", a veces no puedo sufrir más",1,sufrimiento,Dimensión 3: Bodily Pain,1
+Esquizofrenia ,Primera Persona ,", pero todos dicen que estoy bien, que he mejorado.",0,,,0
+Esquizofrenia ,Primera Persona ,"No me dejan mejorar, quieren que siga su orden, ese orden que nos destruye a los que no lo aceptamos.",0,,,0
+Esquizofrenia ,Primera Persona ,A veces se me rompen las ideas,1,afectación cognitiva,Dimensión 7: Role Limitations due to Emotional Problems,1
+Esquizofrenia ,Primera Persona ,Ahora mismo no sabría seguir.,0,,,0
+Esquizofrenia ,Primera Persona ,Puedo estar callado pero no dejo de pensar.,0,,,0
+Esquizofrenia ,Primera Persona ,Es algo que me sobrepasa y me agota,1,cansancio mental,Dimensión 7: Role Limitations due to Emotional Problems,1
+Esquizofrenia ,Primera Persona ,"Por eso estoy aquí, porque sufro",1,sufrimiento,Dimensión 3: Bodily Pain,1
+Esquizofrenia ,Primera Persona ,"A usted todo esto le importa una mierda, usted a lo suyo, a dominar a los locos.",0,,,0
+Esquizofrenia ,Primera Persona ,"Tal vez estoy loco, pero más locos están los que me lo llaman.",0,,,0
+Esquizofrenia ,Primera Persona ,Con sus medicinas me rompe más,2,insatisfacción tratamiento,Dimensión 9: Healthcare Interaction,1
+Esquizofrenia ,Primera Persona ,Con sus medicinas me rompe más,2,efectos secundarios,Dimensión 5: Vitality,1
+Esquizofrenia ,Primera Persona ,", me anula más, me deteriora más",1,empeoramiento enfermedad,Dimensión 3: Bodily Pain,1
+Esquizofrenia ,Primera Persona ,", me domestica como a un animal.",0,,,0
+Esquizofrenia ,Primera Persona ,"No soy un animal, soy una persona que sufre",1,sufrimiento,Dimensión 3: Bodily Pain,1
+Esquizofrenia ,Primera Persona ,Tengo angustia,1,angustia,Dimensión 8: Mental Health,1
+Esquizofrenia ,Primera Persona ,", a veces estoy paralizado y no puedo ni moverme ni pensar",1,limitaciones físicas cognitivas,Dimensión 7: Role Limitations due to Emotional Problems,1
+Esquizofrenia ,Primera Persona ,", sólo oír esa voz que me domina.",0,,,0
+Cáncer ,Tercera Persona ,Leire nació sana y feliz el 3 de diciembre de 2016.,0,,,0
+Cáncer ,Tercera Persona ,"En noviembre de 2018 se cayó, como puede caerse cualquier niño, pero lo malo fue que ella empezó a cojear",1,identificación primeros síntomas: cojera,Dimensión 3: Bodily Pain,1
+Cáncer ,Tercera Persona ,Fuimos a urgencias y le dieron un analgésico para el dolor y nos mandaron que guardara cuatro o cinco días de reposo.,0,,,0
+Cáncer ,Tercera Persona ,Después de esos días de recuperación Leire seguía cojeando y empezó a tener fiebre,1,identificación primeros síntomas: cojera fiebre,Dimensión 1: Physical Functioning,1
+Cáncer ,Tercera Persona ,Tuvimos que volver a urgencias y fue cuando le realizaron una analítica y nos dijeron que tenía que quedarse ingresada porque los resultados no habían salido bien.,0,,,0
+Cáncer ,Tercera Persona ,Esa noche no pegué ojo,2,incertidumbre,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,Esa noche no pegué ojo,2,problemas sueño,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,"A la mañana siguiente, la oncóloga nos llevó al despacho y nos dijo que la niña seguramente tenía cáncer",1,confirmación diagnóstico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Tercera Persona ,En ese momento se nos cayó en mundo encima,1,shock emocional,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,… no lo podíamos creer,1,negación,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,La subieron a la UCIP para hacerle una punción lumbar y fue cuando nos comunicaron que tenía una leucemia linfoblástica aguda,1,confirmación diagnóstico,Dimensión 9: Healthcare Interaction,1
+Cáncer ,Tercera Persona ,"Estuvo tres meses seguidos ingresada con quimioterapia, aislada por dos virus y le tuvieron que poner dos reservorios",2,afrontamiento centrado problema,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,"Estuvo tres meses seguidos ingresada con quimioterapia, aislada por dos virus y le tuvieron que poner dos reservorios",2,inicio tratamiento,Dimensión 2: Role Limitations due to Physical Problems,1
+Cáncer ,Tercera Persona ,Después de esos tres meses le dieron el alta y ahora volvemos al hospital para que la quimioterapia y las revisiones que le corresponden.,0,,,0
+Cáncer ,Tercera Persona ,"Fue el susto más grande que he tenido en mi vida, pero ella demuestra día a día que es fuerte",1,fortaleza,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,y que puede con esto y con todo lo que venga,1,espíritu lucha,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,¡Nos está dando una lección de vida! Gracias,1,agradecimiento,Dimensión 8: Mental Health,1
+Cáncer ,Tercera Persona ,a la familia y a toda la gente que está en estos momentos con nosotros y nos ayuda a estar en pie para seguir lidiando con esta batalla,1,satisfacción apoyo social emocional,Dimensión 4: General Health Perceptions,1
+Cáncer ,Tercera Persona ,¡Estamos seguros que la ganaremos!,1,optimismo,Dimensión 5: Vitality,1
+Cáncer ,Tercera Persona ,Un saludo a todas las familias que saben los que es pasar por estas situaciones.,0,,,0
+Cáncer ,Tercera Persona ,¡¡Mucha fuerza para tod@s!!.,0,,,0
+Cáncer ,Tercera Persona ,,1,fortaleza,Dimensión 5: Vitality,1

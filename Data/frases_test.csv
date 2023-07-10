@@ -1,0 +1,105 @@
+Enfermedad,Persona,frase,num_ind,indicador,dimension,contiene_indicador
+Cáncer ,Primera Persona ,no es algo que ni una madre ni una esposa y una hija ni nadie quiere escuchar pero tiene que ser fuerte,1,fortaleza,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,así a darle apoyo a uno a la otra persona para que pueda seguir adelante,1,búsqueda apoyo social emocional,Dimension 6: Social Functioning,1
+Cáncer ,Primera Persona ,y no caer,1,espíritu lucha,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,porque es que el cáncer hoy en día es un una como que te fichan que ya va a morir y no es así ya ya no es así hay tantas cura para el cáncer que uno puede seguir,1,esperanza,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,adelante y tener una vida yo en los diez años que tuve los tratamientos y en lo que ha pasado ahora fue que yo me retiré,1,impacto ámbito laboral,Dimension 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,porque acá tengo un poco problemas de balance,1,problemas movilidad,Dimension 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,por ello nunca deje de trabajar yo siempre estaba yo iba a mi tratamiento,1,adherencia tratamiento,Dimension 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,y al siguiente día iba a trabajar y ese es mi motor eso era lo que me ayudaba a seguir adelante,1,espíritu lucha,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,"“Hola, me llamo Marta y tengo 16 años.",0,,,0
+Cáncer ,Primera Persona ,"Hace 10 años me diagnosticaron un tumor en mi pierna derecha, llamado osteosarcoma",1,confirmación diagnóstico,Dimension 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,Debido al tumor estuve todo el año ingresada y me tuvieron que amputar mi pierna derecha.,0,,,0
+Cáncer ,Primera Persona ,"De eso ya me recuperé, rehice mi vida y volví a andar con mi prótesis",1,búsqueda soluciones,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,En diciembre del año pasado me volvió a salir un nuevo osteosarcoma en mi pierna izquierda,1,recaída,Dimension 3: Bodily Pain,1
+Cáncer ,Primera Persona ,", pero esta vez los traumatólogos han podido salvarme la pierna y me han puesto una prótesis interna",1,búsqueda soluciones,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,Actualmente estoy en tratamiento con quimio.,0,,,0
+Cáncer ,Primera Persona ,La recuperación es lenta aunque positiva,1,optimismo,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,", y seguro que dentro de nada podré volver hacer mi vida normal y hacer todo lo que a mí me gusta, como natación, salir, bailar, ir de concierto…",2,esperanza,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,", y seguro que dentro de nada podré volver hacer mi vida normal y hacer todo lo que a mí me gusta, como natación, salir, bailar, ir de concierto…",2,normalización,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,"Quiero agradecer a las enfermeras, médicos y a todo el personal del hospital porque hacen que todo sea más corto y agradable; a la Fundación Aladina, por la labor que hacen",1,agradecimiento,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,", y a todos los voluntarios que dedican su tiempo a estar con nosotros y hacernos los ingresos en el hospital más cortos y divertidos",1,satisfacción apoyo profesional,Dimension 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,Me llamo Ander y pronto cumpliré 14 años.,0,,,0
+Cáncer ,Primera Persona ,"Me encanta el fútbol, como a mi hermano Iñaki, y juego de portero.",0,,,0
+Cáncer ,Primera Persona ,En marzo descubrieron que tenía un tumor muy grande en el tórax y resultó ser un Sarcoma de Ewing.,0,,,0
+Cáncer ,Primera Persona ,Al principio me sentí muy triste y asustado,2,tristeza,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,Al principio me sentí muy triste y asustado,2,miedo,Dimension 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,"Tuve miedo de no poder volver a mi portería, que es donde más me gusta estar",1,miedo,Dimension 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,Todos los médicos dicen que me estoy recuperando muy bien,1,esperanza,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,"Mi padre dice que ya hemos hecho el ParísDakar, y que ahora solo nos falta volver hasta París",2,satisfacción apoyo familiar,Dimension 6: Social Functioning,1
+Cáncer ,Primera Persona ,"Mi padre dice que ya hemos hecho el ParísDakar, y que ahora solo nos falta volver hasta París",2,espíritu lucha,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,Todos los que me rodean me están ayudando a pelear con fuerza,1,fortaleza,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,", alegría",1,optimismo,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,y casi siempre una sonrisa,1,optimismo,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,"Con Aladina he podido hacer salidas muy chulas y gracias a su wifi puedo charlar con mis amigos cuando estoy ingresado, así no me siento solo",1,búsqueda apoyo social emocional,Dimension 6: Social Functioning,1
+Cáncer ,Primera Persona ,Sé que hay muchos más chicos como yo,1,comparación social,Dimension 6: Social Functioning,1
+Cáncer ,Primera Persona ,y quiero decirles que hay que confiar y seguir.,0,,,0
+Cáncer ,Primera Persona ,Yo confío.,0,,,0
+Cáncer ,Primera Persona ,,1,esperanza,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,“¡Hola! Me llamo Rubén y tengo 9 años.,0,,,0
+Cáncer ,Primera Persona ,A finales de mayo me diagnosticaron leucemia y tanto mi familia como yo nos asustamos,1,miedo,Dimension 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,y pusimos muy tristes,1,tristeza,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,¡Pero pronto se nos pasó! Y nos adaptamos a esta nueva vida,2,adaptación,Dimension 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,¡Pero pronto se nos pasó! Y nos adaptamos a esta nueva vida,2,normalización,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,"gracias a las auxiliares, las enfermeras, a los médicos, a las limpiadoras.",0,,,0
+Cáncer ,Primera Persona ,,1,agradecimiento,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,"¡Y sin olvidar a mis aladinas, Elena mi querida y divertida entrenadora, y Sara, mi psicooncóloga, que tanto me ha ayudado a ser feliz a pesar de estar en el hospital!",1,satisfacción apoyo profesional,Dimension 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,Cuando llevaba 5 meses ingresado me hicieron un trasplante de médula ¡mi madre fue la donante!,1,satisfacción apoyo familiar,Dimension 6: Social Functioning,1
+Cáncer ,Primera Persona ,En menos de 3 semanas me pude ir del hospital ¡me dijeron que era un récord en la subida de defensas!,1,espíritu lucha,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,"Durante esos días mi padre, mi madre y yo nos divertimos mucho: celebramos Halloween, adornamos la habitación, jugamos con los globos y la pelota ¡una fiesta!",1,optimismo,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,“Yo era pequeño y no me enteraba de nada,1,secretismo,Dimension 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,"pero veía llorar a mi mamá, aunque nunca ha dejado de luchar por mi.",0,,,0
+Cáncer ,Primera Persona ,El cáncer ha sido muy duro: dolor,1,dolor,Dimension 3: Bodily Pain,1
+Cáncer ,Primera Persona ,", días en el hospital, muchos pinchazos…",1,dolor,Dimension 3: Bodily Pain,1
+Cáncer ,Primera Persona ,y aún hoy sigo en tratamiento ¡pero estoy lleno de fuerza a pesar de que haya días malos!,1,fortaleza,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,"Mamá, muchas gracias por tu apoyo, eres súperhipermegaultra especial y te quiero mucho",1,agradecimiento,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,"Gracias a mi oncóloga Alba, a mis psico oncólogas, a mis terapeutas y a Aladina, por el gran trabajo que hacen ¡como los divertidísimos talleres a los que me invitan!”",1,satisfacción apoyo profesional,Dimension 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"“Hola, soy Laura y tengo 36 años.",0,,,0
+Cáncer ,Primera Persona ,Hace menos de un mes me dieron los resultados de estudio genético,1,confirmación diagnóstico,Dimension 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,"Se me hizo el estudio porque a parte de antecedentes en la família, mi madre tuvo cáncer de mama a los 30 años",1,componente genético enfermedad,Dimension 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,Ha salido positivo en el gen Brca2.,0,,,0
+Cáncer ,Primera Persona ,Ahora mismo estoy haciéndome pruebas para comprobar que estoy bien de todo.,0,,,0
+Cáncer ,Primera Persona ,"Me hicieron RM y hay dos nódulos, tengo programada una eco y una mamo con contraste.",0,,,0
+Cáncer ,Primera Persona ,Siento auténtico terror por lo que pueda ocurrir,1,miedo,Dimension 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,soy mamá de un niño de 5 años con Tea.,0,,,0
+Cáncer ,Primera Persona ,"Y el hecho de estar todo en el aire, se me pasan miles de cosas por la cabeza, imagino todas las situaciones posibles.",0,,,0
+Cáncer ,Primera Persona ,,1,incertidumbre,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,Rezo para que esté todo bien,1,religiosidad,Unclassified,1
+Cáncer ,Primera Persona ,y estoy decidida a hacerme la masectomía bilateral,1,búsqueda soluciones,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,Tema ovarios me han dicho que me puedo esperar unos años pero no me hace mucha gracia por el hecho que ahí abajo no hay tanta prevención,1,incertidumbre,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,"Alguien que haya pasado por algo parecido, que se haya operado, que se haya encontrado en situación parecida?? lo poco que se me pueda decir para mi tiene gran valor.",0,,,0
+Cáncer ,Primera Persona ,”,2,incertidumbre,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,”,2,búsqueda apoyo social instrumental,Dimension 6: Social Functioning,1
+Cáncer ,Primera Persona ,"“Hola a todos Tengo 77 años, llevo un cáncer desde ya hace 2 años.",0,,,0
+Cáncer ,Primera Persona ,"Tuve q dejar de trabajar x lo mismo, antes de este diagnóstico hacia mi vida laboral sin ningún problema",1,impacto vida laboral,Dimension 2: Role Limitations due to Physical Problems,1
+Cáncer ,Primera Persona ,"Estoy con químios, y ahora sólo tengo un riñón porque en uno de ellos comenzó el cáncer.",0,,,0
+Cáncer ,Primera Persona ,Ahora se irradió a la vejiga,1,complicación enfermedad,Dimension 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,"y si bien me dicen que siga con más químios, tengo doctores que me han dicho que opté por la cistectomia radical, y la verdad es que estaba dispuesta a operarme hasta que me dijeron hoy q primero averiguara todos los contras de esta operación",1,planificación,Dimension 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,Si bien aún no estoy con dolores fuertes,1,dolor,Dimension 3: Bodily Pain,1
+Cáncer ,Primera Persona ,"pero si tomando analgésicos, orino de vez en cuando de color rojo (hematuria).",0,,,0
+Cáncer ,Primera Persona ,"No se si haciendo esta operación mi vida va a mejorar en algo, va a empeorar aun más!, o que va a pasar",1,incertidumbre,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,"Agradecería mucho testimonios, se que este cáncer por lo general es más habitual en hombres, pero como ven, me dio a mi que soy mujer.",0,,,0
+Cáncer ,Primera Persona ,,1,búsqueda apoyo social instrumental,Dimension 6: Social Functioning,1
+Cáncer ,Primera Persona ,La opción para mi sería la bolsita afuera para que allí llegue la orina,1,búsqueda soluciones,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,Pero he leído ya lo de las infecciones y me da miedo,1,miedo,Dimension 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,mas que nada porque como les comente tengo solo un riñon que debo cuidar mucho!! ”,0,,,0
+Cáncer ,Primera Persona ,"“Después de entrar a emergencias despertar de la operación con una colostomia, ya a casi un mes de la operación y de realizada la biopsia.",0,,,0
+Cáncer ,Primera Persona ,Hoy me dieron los resultados de que tengo cáncer en etapa 4 metástasis,1,confirmación diagnóstico,Dimension 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,"el cual ya fue retirado en la intervención, el doctor fue sincero",1,satisfacción comunicación médico-paciente,Dimension 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,"y me dijo que toca realizar calidad de vida, normalmente no superan los 5 años me dijo es una probabilidad baja ya que el cáncer se va extendiendo en otros organos, pero hay que ver cómo reaccionas al tratamiento",1,incertidumbre,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,Ante esta noticia me derrumbe totalmente a penas puse un pie en casa,1,depresión,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,Aún estoy asimilando lo que me toca vivir,1,shock emocional,Dimension 8: Mental Health,1
+Cáncer ,Primera Persona ,Espero poder contar mi experiencia y como iré en estos meses,1,expresión emocional,Dimension 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,con el tratamiento que me digan.,0,,,0
+Cáncer ,Primera Persona ,Si alguien salió de esta espero leerlos,1,búsqueda apoyo social emocional,Dimension 6: Social Functioning,1
+Cáncer ,Primera Persona ,", tengo mucho miedo",1,miedo,Dimension 7: Role Limitations due to Emotional Problems,1
+Cáncer ,Primera Persona ,“En el mes de mayo del año 2020 fui diagnosticado de cáncer gástrico,1,confirmación diagnóstico,Dimension 9: Healthcare Interaction,1
+Cáncer ,Primera Persona ,"por lo que se me realizó una gastrectomía total, cirugía que ya como muchos saben es muy compleja, después de 25 días aproximadamente comencé con 12 sesiones de quimioterapia, donde las 1eras seis fueron tolerables, posterior a eso se me complicó la parte digestiva con una septicemia que me tubo muy mal hospitalizado por algo de 6 meses, sin poder recibir mucha alimentación, con 6 drenajes y mucho antibiótico, dentro de las posibilidades ya que las fuerzas no me acompañaban, paulatinamente realicé mis otras 6 quimioterapias, ya de alta en enero 2021 comencé a alimentarme con un poquito de sólido, debí realizar 12 quimioterapias más, hasta octubre del 2021, fecha en la que de a poco mi alimentación era cada vez más normal, me enfoqué en el deporte para ganar un poco de musculatura",2,búsqueda soluciones,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,"por lo que se me realizó una gastrectomía total, cirugía que ya como muchos saben es muy compleja, después de 25 días aproximadamente comencé con 12 sesiones de quimioterapia, donde las 1eras seis fueron tolerables, posterior a eso se me complicó la parte digestiva con una septicemia que me tubo muy mal hospitalizado por algo de 6 meses, sin poder recibir mucha alimentación, con 6 drenajes y mucho antibiótico, dentro de las posibilidades ya que las fuerzas no me acompañaban, paulatinamente realicé mis otras 6 quimioterapias, ya de alta en enero 2021 comencé a alimentarme con un poquito de sólido, debí realizar 12 quimioterapias más, hasta octubre del 2021, fecha en la que de a poco mi alimentación era cada vez más normal, me enfoqué en el deporte para ganar un poco de musculatura",2,actividad física,Dimension 1: Physical Functioning,1
+Cáncer ,Primera Persona ,", el presente año ya he corrido 3 media maratón, siempre apoyado por nutricionista y sigo lleno de esperanza",1,esperanza,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,y fuerza,1,fuerza,Dimension 1: Physical Functioning,1
+Cáncer ,Primera Persona ,para salir adelante amigos,1,búsqueda apoyo social emocional,Dimension 6: Social Functioning,1
+Cáncer ,Primera Persona ,", en lo referido a mi alimentación he vuelto a comer alimentos que creí que no lo haría, pero claro con mucha responsabilidad, ahora me preparo para mis próximos controles el mes que viene",1,planificación,Dimension 4: General Health Perceptions,1
+Cáncer ,Primera Persona ,Lleno de fe en  Dios que todo estará  bien,1,religiosidad,Unclassified,1
+Cáncer ,Primera Persona ,"Un gran abrazo desde Chile amigos y no bajemos los brazos, aun queda mucho por vivir",1,espíritu lucha,Dimension 5: Vitality,1
+Cáncer ,Primera Persona ,Saludos.,0,,,0
